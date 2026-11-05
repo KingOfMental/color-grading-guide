@@ -111,12 +111,72 @@ for chapter in ['grade','look']:
  groups=([('보기와 색관리',0,3),('노드·스코프·기본 보정',3,5),('커브·색·선택',5,9),('사례와 도구 실전',9,13),('공유·복원·Final Cut',13,16)] if chapter=='grade' else [('룩의 원리와 질감',0,5),('실제 사진 사례',5,6),('블랙스완 영화 사례',6,11),('기존 작품 룩 재현',11,17),('화면·마스크·합성',17,20),('전환의 설계와 구현',20,24),('작품·템플릿·전체 구성',24,26)])
  for name,a,b in groups:
   for section in local[a:b]:section['category']=name
+# Five user-defined subjects are the top-level navigation. Existing subject groups remain below them.
+old_sections={s['id']:s for s in sections}
+record_pages={38,82,134,154}
+resolve_recipe_pages={190,193,196,199,202,205,208,211}
+roundtrip_ids={'fcp-live-truth','fcp-workflow-choice','fcp-roundtrip-contract','fcp-preflight','fcp-xml-export','fcp-conform','fcp-risk-effects','fcp-handles','fcp-grade-resolve','fcp-return-render','fcp-return-finalize','fcp-revision','fcp-color-difference','fcp-mixed-machines','fcp-matrix','fcp-checklist'}
+def subject(e):
+ id=e['id'];old=e['chapter'];n=e.get('page')
+ if id.startswith('film-'):return 'color'
+ if n:
+  if n in record_pages:return 'shoot'
+  if n in {1,2,3,4,5,6,7} or 122<=n<=132 or n in {213,214}:return 'other'
+  if n in resolve_recipe_pages or 81<=n<=121 or 133<=n<=180:return 'resolve'
+  return 'color'
+ if id in roundtrip_ids or id.startswith('supp-edit_') or id in {'ejim-sources','curriculum-order','fcp-sources'}:return 'other'
+ if id.startswith('fcp-') or id in {'prepare-contract','principle-files','principle-media','principle-workflow','principle-flow','principle-retime','principle-effects-relink'}:return 'fcp'
+ if old=='shoot' or id=='supp-color_precision':return 'shoot'
+ if old=='see':return 'color'
+ if id.startswith('supp-sound_'):return 'other'
+ if old=='grade':return 'resolve'
+ return 'other'
+def category(e,sec):
+ c=e['chapter'];old=e['previousChapter'];id=e['id'];n=e.get('page')
+ if c=='color':
+  if id.startswith('film-'):return '블랙스완 영화 사례'
+  if n and n>=181:return '영화·사진·룩 사례'
+  if old=='see':return '색채학 기초'
+  return '색을 읽고 보정하는 판단'
+ if c=='shoot':
+  if n or id=='supp-color_precision':return '카메라 기록과 형식'
+  if 'gimbal' in id or id=='principle-focus':return '짐벌과 초점'
+  if id.startswith('supp-light_'):return '라이팅'
+  return '구도·장면·촬영 설정'
+ if c=='fcp':
+  if old=='prepare':return '작업 준비와 미디어'
+  if old=='edit':return '컷 편집과 장면 구성'
+  if old=='sound':return '음악·사운드·속도 변화'
+  if old=='grade':return '파이널컷의 색 조절'
+  if old=='finish':return '파이널컷 출력'
+  if old=='reference':return '조작 실험과 용어'
+  return sec.get('category','합성·전환·작품 구성')
+ if c=='resolve':
+  if n in resolve_recipe_pages:return '작품별 룩 재현'
+  if old=='look':return '룩·필름 질감·효과'
+  if old=='finish':return '출력과 최종 검수'
+  if old=='reference':return '도움말'
+  return '작업 준비와 재생 성능' if old=='prepare' else sec.get('category','색관리·보정·도구').replace('공유·복원·Final Cut','공유·재사용')
+ if id.startswith('supp-sound_'):return '오디오 기초'
+ if old=='finish' or id in {'fcp-matrix','fcp-checklist'}:return '앱 간 왕복과 전달'
+ if old=='start' or (n and n<=7):return '학습 안내'
+ return '사전·참고자료'
+for e in entries:
+ e['previousChapter']=e['chapter'];e['chapter']=subject(e)
+CHAPTERS=[('color','색채학','빛·색·배색·룩 판단·영화 사례'),('shoot','촬영','구도·장면 구성·노출·기록·라이팅·짐벌'),('fcp','파이널컷(컷편집)','소재 준비·컷·음악·속도·합성·전환·출력'),('resolve','다빈치리졸브(색보정)','색관리·노드·스코프·보정·룩 구현'),('other','기타','학습 안내·왕복 전달·오디오 기초·사전·출처')]
+entries=[e for c,_,_ in CHAPTERS for e in entries if e['chapter']==c]
+sections=[];section_map={}
+for i,e in enumerate(entries):
+ old=old_sections[e['section']];cat=category(e,old);key=(e['chapter'],cat,old['id'])
+ if key not in section_map:
+  sec={'id':e['chapter']+'-topic-'+str(len(sections)+1),'chapter':e['chapter'],'category':cat,'title':old['title']};sections.append(sec);section_map[key]=sec
+ e['section']=section_map[key]['id'];e['order']=i+1;e.pop('previousChapter')
 payload={'sections':sections,'chapters':[dict(id=k,title=t,description=d) for k,t,d in CHAPTERS],'entries':entries,'updated':'2026.11.05'}
 # Keep original comparison UI, data and images, adding one unified reader and navigation.
 root=html.fromstring(base);root.find('head').find('title').text='영상제작 통합 학습서 · 촬영·편집·색보정'
-head=root.find('head');link=html.Element('link',rel='stylesheet',href='assets/unified.css?v=20261105-3');head.append(link)
+head=root.find('head');link=html.Element('link',rel='stylesheet',href='assets/unified.css?v=20261105-4');head.append(link)
 brand=root.xpath('//*[@class="brand"]')[0];brand.text='영상제작 통합 학습서';[brand.remove(c) for c in list(brand)]
-root.xpath('//*[@class="eyebrow"]')[0].text='SEE / SHOOT / EDIT / GRADE / FINISH'
+root.xpath('//*[@class="eyebrow"]')[0].text='COLOR / SHOOT / FINAL CUT / RESOLVE / ETC'
 root.xpath('//*[@id="sidebar"]/p')[0].text='촬영·편집·색보정을 한 흐름으로. 전체 목차와 본문을 함께 검색합니다.'
 intro=root.xpath('//*[@id="sidebar"]/p')[0]
 for child in list(intro):intro.remove(child)
@@ -127,7 +187,7 @@ home=html.Element('section',id='learnPane',attrib={'class':'learn-pane hidden'})
 body=root.find('body')
 for script in list(body.xpath('.//script[@src="assets/app.js"]')):script.getparent().remove(script)
 data=html.Element('script',id='unifiedData',type='application/json');data.text=json.dumps(payload,ensure_ascii=False).replace('</','<\\/');body.append(data)
-for src in ['assets/editing-figures.js','assets/app.js']:body.append(html.Element('script',src=src+'?v=20261105-3'))
+for src in ['assets/editing-figures.js','assets/app.js']:body.append(html.Element('script',src=src+'?v=20261105-4'))
 (DOCS/'assets/app.js').write_text((ROOT/'content/color-app-original.js').read_text()+'\n'+(DOCS/'assets/unified.js').read_text())
 for e in root.xpath('//*[contains(text(),"페이지 배치는 PDF와 같습니다.")]'):e.text='색채 원본의 쪽번호는 참조용입니다. 통합 목차와 이전·다음 이동은 새 학습 순서를 따릅니다.'
 (DOCS/'index.html').write_text('<!doctype html>\n'+html.tostring(root,encoding='unicode'))

@@ -47,4 +47,6 @@ films=[e for e in data['entries'] if e['id'].startswith('film-')]
 assert len(films)==14
 assert all('근거 구분' in e['html'] for e in films if e['id']!='film-cases')
 assert 'film-atonement' in [e['id'] for e in films]
-print('PASS: 77 topic groups; at most 10 lessons per group; 13 film cases + index.')
+assert [c['title'] for c in data['chapters']]==['색채학','촬영','파이널컷(컷편집)','다빈치리졸브(색보정)','기타']
+assert len({e['id'] for e in data['entries']})==368
+print('PASS: exactly 5 subject chapters; every lesson has a category and topic; all 368 entries preserved.')
