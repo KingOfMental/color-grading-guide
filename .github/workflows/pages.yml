@@ -20,6 +20,11 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - uses: actions/configure-pages@v5
+      - name: Clear timed-out Pages deployment
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api --method POST repos/KingOfMental/color-grading-guide/pages/deployments/79a87756d446dee37eb631f36a1d497ee9e754c8/cancel
       - uses: actions/upload-pages-artifact@v4
         with:
           path: docs
