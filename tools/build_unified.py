@@ -95,7 +95,7 @@ for i,e in enumerate(entries):e['order']=i+1
 payload={'chapters':[dict(id=k,title=t,description=d) for k,t,d in CHAPTERS],'entries':entries,'updated':'2026.11.05'}
 # Keep original comparison UI, data and images, adding one unified reader and navigation.
 root=html.fromstring(base);root.find('head').find('title').text='영상제작 통합 학습서 · 촬영·편집·색보정'
-head=root.find('head');link=html.Element('link',rel='stylesheet',href='assets/unified.css');head.append(link)
+head=root.find('head');link=html.Element('link',rel='stylesheet',href='assets/unified.css?v=20261105-2');head.append(link)
 brand=root.xpath('//*[@class="brand"]')[0];brand.text='영상제작 통합 학습서';[brand.remove(c) for c in list(brand)]
 root.xpath('//*[@class="eyebrow"]')[0].text='SEE / SHOOT / EDIT / GRADE / FINISH'
 root.xpath('//*[@id="sidebar"]/p')[0].text='촬영·편집·색보정을 한 흐름으로. 전체 목차와 본문을 함께 검색합니다.'
@@ -108,7 +108,7 @@ home=html.Element('section',id='learnPane',attrib={'class':'learn-pane hidden'})
 body=root.find('body')
 for script in list(body.xpath('.//script[@src="assets/app.js"]')):script.getparent().remove(script)
 data=html.Element('script',id='unifiedData',type='application/json');data.text=json.dumps(payload,ensure_ascii=False).replace('</','<\\/');body.append(data)
-for src in ['assets/editing-figures.js','assets/app.js']:body.append(html.Element('script',src=src))
+for src in ['assets/editing-figures.js','assets/app.js']:body.append(html.Element('script',src=src+'?v=20261105-2'))
 (DOCS/'assets/app.js').write_text((ROOT/'content/color-app-original.js').read_text()+'\n'+(DOCS/'assets/unified.js').read_text())
 for e in root.xpath('//*[contains(text(),"페이지 배치는 PDF와 같습니다.")]'):e.text='색채 원본의 쪽번호는 참조용입니다. 통합 목차와 이전·다음 이동은 새 학습 순서를 따릅니다.'
 (DOCS/'index.html').write_text('<!doctype html>\n'+html.tostring(root,encoding='unicode'))
