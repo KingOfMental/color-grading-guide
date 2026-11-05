@@ -1,0 +1,330 @@
+{
+  "start": [
+    {
+      "start": "curriculum-order",
+      "title": "학습 방향"
+    }
+  ],
+  "see": [
+    {
+      "start": "page-8",
+      "title": "빛과 명암"
+    },
+    {
+      "start": "page-14",
+      "title": "색의 속성과 톤"
+    },
+    {
+      "start": "page-18",
+      "title": "색온도와 화이트밸런스"
+    },
+    {
+      "start": "page-27",
+      "title": "빛의 성격과 대비"
+    },
+    {
+      "start": "page-30",
+      "title": "배색·면적·강조"
+    },
+    {
+      "start": "page-35",
+      "title": "분위기와 시간의 색"
+    }
+  ],
+  "shoot": [
+    {
+      "start": "principle-shot-scene",
+      "title": "샷·구도·화면 방향"
+    },
+    {
+      "start": "supp-shoot_iso",
+      "title": "노출·기록·렌즈"
+    },
+    {
+      "start": "supp-light_quality",
+      "title": "광원의 성격과 배치"
+    },
+    {
+      "start": "supp-light_wb",
+      "title": "혼합광·눈빛·플리커"
+    },
+    {
+      "start": "principle-gimbal-design",
+      "title": "짐벌·경로·초점"
+    }
+  ],
+  "prepare": [
+    {
+      "start": "fcp-reading",
+      "title": "앱·라이브러리·작업 약속"
+    },
+    {
+      "start": "principle-files",
+      "title": "파일 정리·소재 가져오기"
+    },
+    {
+      "start": "page-82",
+      "title": "기록 형식·정밀도"
+    },
+    {
+      "start": "principle-media",
+      "title": "원본·대체 미디어·보관"
+    }
+  ],
+  "edit": [
+    {
+      "start": "fcp-selects",
+      "title": "선별과 타임라인 구조"
+    },
+    {
+      "start": "fcp-ripple",
+      "title": "트림·편집점 다루기"
+    },
+    {
+      "start": "fcp-story-shots",
+      "title": "샷에서 장면·전체 흐름으로"
+    },
+    {
+      "start": "fcp-multicam",
+      "title": "멀티캠과 추가 조작"
+    }
+  ],
+  "sound": [
+    {
+      "start": "fcp-rhythm",
+      "title": "음악 구조·비트·역할"
+    },
+    {
+      "start": "supp-sound_format",
+      "title": "음질·미터·다이내믹"
+    },
+    {
+      "start": "fcp-mix",
+      "title": "믹스·현장음·복원"
+    },
+    {
+      "start": "principle-retime",
+      "title": "슬로모션·속도 램프"
+    }
+  ],
+  "grade": [
+    {
+      "start": "page-39",
+      "title": "목적·관찰·레퍼런스"
+    },
+    {
+      "start": "page-43",
+      "title": "보기 환경·입력·작업·출력"
+    },
+    {
+      "start": "page-81",
+      "title": "Resolve 입력·색관리·LUT"
+    },
+    {
+      "start": "page-85",
+      "title": "노드와 스코프"
+    },
+    {
+      "start": "page-86",
+      "title": "기본 휠·노출·WB·대비"
+    },
+    {
+      "start": "page-49",
+      "title": "커브의 개념과 기본 형태"
+    },
+    {
+      "start": "page-59",
+      "title": "커브 적용 사례"
+    },
+    {
+      "start": "page-65",
+      "title": "커브 순서·색·채도"
+    },
+    {
+      "start": "page-69",
+      "title": "선택·피부·장면 매칭"
+    },
+    {
+      "start": "page-77",
+      "title": "장면별 보정 판단 사례"
+    },
+    {
+      "start": "page-92",
+      "title": "선택 도구와 추적의 실제"
+    },
+    {
+      "start": "page-108",
+      "title": "한 장면을 끝까지 보정하기"
+    },
+    {
+      "start": "page-142",
+      "title": "커브·마스크 도구 사전"
+    },
+    {
+      "start": "page-149",
+      "title": "공유·재사용·매칭"
+    },
+    {
+      "start": "page-152",
+      "title": "노이즈·디테일·원본의 한계"
+    },
+    {
+      "start": "fcp-color-management",
+      "title": "Final Cut 색관리·샷 매칭"
+    }
+  ],
+  "look": [
+    {
+      "start": "page-72",
+      "title": "룩의 구성과 기본 효과"
+    },
+    {
+      "start": "page-161",
+      "title": "톤·색 밀도·필름 변환"
+    },
+    {
+      "start": "page-167",
+      "title": "그레인·확산·렌즈 인상"
+    },
+    {
+      "start": "page-173",
+      "title": "필름 흔들림·빛샘·창작"
+    },
+    {
+      "start": "page-177",
+      "title": "효과 조합·강도·검수"
+    },
+    {
+      "start": "page-181",
+      "title": "실제 사진으로 보는 장면 사례"
+    },
+    {
+      "start": "film-cases",
+      "title": "블랙스완 영화 사례 · 찾아보기"
+    },
+    {
+      "start": "film-atonement",
+      "title": "영화 사례 · 빛·팔레트·톤"
+    },
+    {
+      "start": "film-rush",
+      "title": "영화 사례 · 스포츠·재질"
+    },
+    {
+      "start": "film-sin-city",
+      "title": "영화 사례 · 그래픽·강한 색"
+    },
+    {
+      "start": "film-blade-runner",
+      "title": "영화 사례 · 색과 이야기"
+    },
+    {
+      "start": "page-186",
+      "title": "기존 룩 재현 가이드 · 지도"
+    },
+    {
+      "start": "page-188",
+      "title": "기존 룩 재현 · 틸·조커"
+    },
+    {
+      "start": "page-194",
+      "title": "기존 룩 재현 · 라라랜드·부다페스트"
+    },
+    {
+      "start": "page-200",
+      "title": "기존 룩 재현 · 매드맥스·그녀"
+    },
+    {
+      "start": "page-206",
+      "title": "기존 룩 재현 · 블레이드 러너·문라이트"
+    },
+    {
+      "start": "page-212",
+      "title": "기존 사례 · 비교·출처"
+    },
+    {
+      "start": "fcp-transform",
+      "title": "화면 크기·무빙·키프레임"
+    },
+    {
+      "start": "fcp-mask-basics",
+      "title": "마스크·트래킹·합성"
+    },
+    {
+      "start": "fcp-adjustment",
+      "title": "공통 효과·재사용"
+    },
+    {
+      "start": "fcp-transition-grammar",
+      "title": "전환의 목적과 여유 프레임"
+    },
+    {
+      "start": "fcp-mask-wipe",
+      "title": "가림·포털·매치 전환"
+    },
+    {
+      "start": "fcp-whip-transition",
+      "title": "휘프·줌·빛·질감 전환"
+    },
+    {
+      "start": "fcp-transition-sound",
+      "title": "전환 소리·오류·촬영 준비"
+    },
+    {
+      "start": "fcp-creator-study",
+      "title": "인트로·템플릿·콜라주"
+    },
+    {
+      "start": "fcp-outro-recipes",
+      "title": "아웃트로·롱폼·전체 흐름"
+    }
+  ],
+  "finish": [
+    {
+      "start": "supp-edit_bridge",
+      "title": "두 앱의 역할과 전달 방식"
+    },
+    {
+      "start": "fcp-roundtrip-contract",
+      "title": "왕복 계약·XML 준비"
+    },
+    {
+      "start": "fcp-conform",
+      "title": "재연결·효과·핸들"
+    },
+    {
+      "start": "fcp-grade-resolve",
+      "title": "보정·반환·수정"
+    },
+    {
+      "start": "fcp-color-difference",
+      "title": "색 차이·환경·최종 출력"
+    },
+    {
+      "start": "page-76",
+      "title": "검수·납품·보관의 기준"
+    }
+  ],
+  "reference": [
+    {
+      "start": "page-1",
+      "title": "예전 학습 지도·목차"
+    },
+    {
+      "start": "page-105",
+      "title": "도움말·연습·자료 찾기"
+    },
+    {
+      "start": "page-125",
+      "title": "원본 용어·출처·색인"
+    },
+    {
+      "start": "fcp-problems",
+      "title": "편집 색인·조작 실험"
+    },
+    {
+      "start": "fcp-matrix",
+      "title": "왕복 표·체크리스트·출처"
+    }
+  ]
+}

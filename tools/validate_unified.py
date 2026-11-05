@@ -38,3 +38,13 @@ print(f'PASS: {len(entries)} unique entries; original 214 color pages + 83 editi
 for p in [R/'docs/index.html', R/'content/production-principles.json']:
  assert 'kyung6class.teachable' not in p.read_text()
 
+
+from collections import Counter
+sections={s['id']:s for s in data['sections']}
+assert all(e['section'] in sections and sections[e['section']]['chapter']==e['chapter'] for e in data['entries'])
+assert max(Counter(e['section'] for e in data['entries']).values())<=10
+films=[e for e in data['entries'] if e['id'].startswith('film-')]
+assert len(films)==14
+assert all('근거 구분' in e['html'] for e in films if e['id']!='film-cases')
+assert 'film-atonement' in [e['id'] for e in films]
+print('PASS: 77 topic groups; at most 10 lessons per group; 13 film cases + index.')

@@ -69,6 +69,9 @@ kyung_path=ROOT/'content/production-principles.json'
 if kyung_path.exists():
  for r in json.loads(kyung_path.read_text()):add(**r)
 
+for r in json.loads((ROOT/'content/film-cases.json').read_text()):
+ r=dict(r);r.pop('caseGroup',None);add(**r)
+
 ejim=json.loads((ROOT/'content/ejim-review.json').read_text());body='<p class="lead">4개 과정 82항목에서 중복을 제외한 81편. 원본 자막의 주요 논점을 검토한 기록입니다.</p><p>전체 연속 시청·시연 프레임·오디오 청취를 완료한 기록이 아닙니다. 제품 리뷰는 구매 추천으로 옮기지 않고, OS·버전·입력 조건을 확인하도록 정리했습니다.</p><div class="review-grid">'
 for i,v in enumerate(ejim):body+='<article><small>'+str(i+1).zfill(2)+' · 자막 주요 구간</small><h3><a href="'+esc.escape(v['url'],quote=True)+'" target="_blank" rel="noopener">'+esc.escape(v['title'])+'</a></h3><p>'+esc.escape(v['note'])+'</p></article>'
 body+='</div>';add('ejim-sources','Ejim 81편 · 검토 기록','reference',body)
@@ -90,12 +93,28 @@ for key,_,_ in CHAPTERS:
  order={v:i for i,v in enumerate(ids)};group.sort(key=lambda x:order.get(x['id'],len(ids)))
  ordered.extend(group)
 entries=ordered
+films=[e for e in entries if e['id'].startswith('film-')]
+entries=[e for e in entries if not e['id'].startswith('film-')]
+pos=next(i for i,e in enumerate(entries) if e['id']=='page-186');entries[pos:pos]=films
 assert len({e['id'] for e in entries})==len(entries)
 for i,e in enumerate(entries):e['order']=i+1
-payload={'chapters':[dict(id=k,title=t,description=d) for k,t,d in CHAPTERS],'entries':entries,'updated':'2026.11.05'}
+boundaries=json.loads((ROOT/'content/navigation-boundaries.json').read_text())
+sections=[]
+for chapter,_,_ in CHAPTERS:
+ group=[e for e in entries if e['chapter']==chapter];starts={b['start']:b['title'] for b in boundaries[chapter]};section=None
+ for e in group:
+  if e['id'] in starts or section is None:
+   section={'id':chapter+'-'+str(len(sections)+1),'chapter':chapter,'title':starts.get(e['id'],'기타 연결 설명')};sections.append(section)
+  e['section']=section['id']
+for chapter in ['grade','look']:
+ local=[s for s in sections if s['chapter']==chapter]
+ groups=([('보기와 색관리',0,3),('노드·스코프·기본 보정',3,5),('커브·색·선택',5,9),('사례와 도구 실전',9,13),('공유·복원·Final Cut',13,16)] if chapter=='grade' else [('룩의 원리와 질감',0,5),('실제 사진 사례',5,6),('블랙스완 영화 사례',6,11),('기존 작품 룩 재현',11,17),('화면·마스크·합성',17,20),('전환의 설계와 구현',20,24),('작품·템플릿·전체 구성',24,26)])
+ for name,a,b in groups:
+  for section in local[a:b]:section['category']=name
+payload={'sections':sections,'chapters':[dict(id=k,title=t,description=d) for k,t,d in CHAPTERS],'entries':entries,'updated':'2026.11.05'}
 # Keep original comparison UI, data and images, adding one unified reader and navigation.
 root=html.fromstring(base);root.find('head').find('title').text='영상제작 통합 학습서 · 촬영·편집·색보정'
-head=root.find('head');link=html.Element('link',rel='stylesheet',href='assets/unified.css?v=20261105-2');head.append(link)
+head=root.find('head');link=html.Element('link',rel='stylesheet',href='assets/unified.css?v=20261105-3');head.append(link)
 brand=root.xpath('//*[@class="brand"]')[0];brand.text='영상제작 통합 학습서';[brand.remove(c) for c in list(brand)]
 root.xpath('//*[@class="eyebrow"]')[0].text='SEE / SHOOT / EDIT / GRADE / FINISH'
 root.xpath('//*[@id="sidebar"]/p')[0].text='촬영·편집·색보정을 한 흐름으로. 전체 목차와 본문을 함께 검색합니다.'
@@ -108,7 +127,7 @@ home=html.Element('section',id='learnPane',attrib={'class':'learn-pane hidden'})
 body=root.find('body')
 for script in list(body.xpath('.//script[@src="assets/app.js"]')):script.getparent().remove(script)
 data=html.Element('script',id='unifiedData',type='application/json');data.text=json.dumps(payload,ensure_ascii=False).replace('</','<\\/');body.append(data)
-for src in ['assets/editing-figures.js','assets/app.js']:body.append(html.Element('script',src=src+'?v=20261105-2'))
+for src in ['assets/editing-figures.js','assets/app.js']:body.append(html.Element('script',src=src+'?v=20261105-3'))
 (DOCS/'assets/app.js').write_text((ROOT/'content/color-app-original.js').read_text()+'\n'+(DOCS/'assets/unified.js').read_text())
 for e in root.xpath('//*[contains(text(),"페이지 배치는 PDF와 같습니다.")]'):e.text='색채 원본의 쪽번호는 참조용입니다. 통합 목차와 이전·다음 이동은 새 학습 순서를 따릅니다.'
 (DOCS/'index.html').write_text('<!doctype html>\n'+html.tostring(root,encoding='unicode'))
