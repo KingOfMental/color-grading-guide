@@ -570,6 +570,11 @@
     "chapter": "color"
   },
   {
+    "id": "study-color",
+    "title": "색채학 실습실 · 5개 실습",
+    "chapter": "color"
+  },
+  {
     "id": "principle-shot-scene",
     "title": "샷의 크기를 바꾸어 장면의 정보를 조립하기",
     "chapter": "shoot"
@@ -687,6 +692,11 @@
   {
     "id": "page-154",
     "title": "밴딩·8/10비트·색차 서브샘플링",
+    "chapter": "shoot"
+  },
+  {
+    "id": "study-shoot",
+    "title": "촬영 실습실 · 6개 실습",
     "chapter": "shoot"
   },
   {
@@ -1082,6 +1092,11 @@
   {
     "id": "fcp-glossary",
     "title": "FCP 용어·단축키 사전",
+    "chapter": "fcp"
+  },
+  {
+    "id": "study-fcp",
+    "title": "파이널컷(컷편집) 실습실 · 6개 실습",
     "chapter": "fcp"
   },
   {
@@ -1600,6 +1615,11 @@
     "chapter": "resolve"
   },
   {
+    "id": "study-resolve",
+    "title": "다빈치리졸브(색보정) 실습실 · 6개 실습",
+    "chapter": "resolve"
+  },
+  {
     "id": "curriculum-order",
     "title": "전체 학습 순서를 이렇게 바꿨어요",
     "chapter": "other"
@@ -1837,6 +1857,16 @@
   {
     "id": "ejim-sources",
     "title": "Ejim 81편 · 검토 기록",
+    "chapter": "other"
+  },
+  {
+    "id": "study-other",
+    "title": "기타 실습실 · 3개 실습",
+    "chapter": "other"
+  },
+  {
+    "id": "study-guide",
+    "title": "공부하는 방법 · 실습·비교 길잡이",
     "chapter": "other"
   }
 ]

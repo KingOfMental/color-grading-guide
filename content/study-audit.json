@@ -1,0 +1,4358 @@
+{
+  "reviewedOriginalEntries": 368,
+  "method": "원본 368항목의 구조적 보조 자료를 전수 집계하고, 주제별 실습 연결은 직접 선정함. 이미지 수가 곧 학습 품질 점수는 아님.",
+  "findings": [
+    "기존 비교 62개가 별도 탭에 집중되어 있어 해당 본문에 연결",
+    "촬영 보강편은 글 중심이어서 원리 도식과 촬영 실습 추가",
+    "기존 FCP 조작 도식과 실제 앱 자료를 유지하고 재료·절차·검수 기준 연결",
+    "색관리·마스크·매칭·질감은 한 변수씩 바꾸는 실습과 실패 진단 추가",
+    "정답·힌트는 펼쳐 보는 방식, 완료 기준과 메모는 이 브라우저에 저장"
+  ],
+  "summary": [
+    {
+      "chapter": "color",
+      "reviewedEntries": 114,
+      "originalPageImages": 96,
+      "originalEmbeddedImageEntries": 1,
+      "originalDiagramEntries": 0,
+      "contextualComparisonEntries": 47,
+      "curatedPracticeEntries": 56,
+      "newExercises": 5
+    },
+    {
+      "chapter": "shoot",
+      "reviewedEntries": 24,
+      "originalPageImages": 4,
+      "originalEmbeddedImageEntries": 0,
+      "originalDiagramEntries": 0,
+      "contextualComparisonEntries": 8,
+      "curatedPracticeEntries": 20,
+      "newExercises": 6
+    },
+    {
+      "chapter": "fcp",
+      "reviewedEntries": 79,
+      "originalPageImages": 0,
+      "originalEmbeddedImageEntries": 17,
+      "originalDiagramEntries": 68,
+      "contextualComparisonEntries": 2,
+      "curatedPracticeEntries": 44,
+      "newExercises": 6
+    },
+    {
+      "chapter": "resolve",
+      "reviewedEntries": 103,
+      "originalPageImages": 94,
+      "originalEmbeddedImageEntries": 0,
+      "originalDiagramEntries": 0,
+      "contextualComparisonEntries": 22,
+      "curatedPracticeEntries": 82,
+      "newExercises": 6
+    },
+    {
+      "chapter": "other",
+      "reviewedEntries": 48,
+      "originalPageImages": 20,
+      "originalEmbeddedImageEntries": 0,
+      "originalDiagramEntries": 14,
+      "contextualComparisonEntries": 0,
+      "curatedPracticeEntries": 21,
+      "newExercises": 3
+    }
+  ],
+  "entries": [
+    {
+      "id": "page-8",
+      "title": "1부 · 색과 빛부터 이해하기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-9",
+      "title": "색채학은 “색 이름”보다 관계를 공부하는 것",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-10",
+      "title": "눈이 느끼는 밝기: 주변과 함께 보기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "brightness"
+      ]
+    },
+    {
+      "id": "page-11",
+      "title": "밝기: 잘 보이게 할까, 눈부시게 할까?",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-11"
+      ],
+      "exerciseIds": [
+        "brightness"
+      ]
+    },
+    {
+      "id": "supp-read_brightness",
+      "title": "“밝기”라는 말 안의 서로 다른 기준",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-12",
+      "title": "밝기 범위: 남아 있는 정보와 사라진 정보",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-12"
+      ],
+      "exerciseIds": [
+        "brightness"
+      ]
+    },
+    {
+      "id": "page-13",
+      "title": "중간톤은 사진의 어디일까?",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "brightness"
+      ]
+    },
+    {
+      "id": "supp-read_edges",
+      "title": "중간톤과 경계에서 질감을 읽기",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-14",
+      "title": "영상의 RGB: 색을 더하고 덜하는 관계",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-15",
+      "title": "색의 세 가지 성질: 색조·채도·밝기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-15"
+      ],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-16",
+      "title": "톤: 같은 주황도 밝기와 채도에 따라",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-18",
+      "title": "차갑다·따뜻하다도 비교 상대가 있다",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "wb"
+      ]
+    },
+    {
+      "id": "page-19",
+      "title": "색온도 숫자: 조명의 색과 보정 방향",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "wb"
+      ]
+    },
+    {
+      "id": "page-20",
+      "title": "색온도 × 틴트: 두 축의 조합을 눈으로",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-20"
+      ],
+      "exerciseIds": [
+        "wb"
+      ]
+    },
+    {
+      "id": "page-23",
+      "title": "화이트밸런스: 빛의 색부터 정리하기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-23"
+      ],
+      "exerciseIds": [
+        "wb"
+      ]
+    },
+    {
+      "id": "page-24",
+      "title": "혼합 조명: 한 번의 색온도로 둘 다 맞을까?",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-24"
+      ],
+      "exerciseIds": [
+        "wb"
+      ]
+    },
+    {
+      "id": "page-17",
+      "title": "색 조절: 따뜻함과 진함은 다르다",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-17"
+      ],
+      "exerciseIds": [
+        "wb"
+      ]
+    },
+    {
+      "id": "page-21",
+      "title": "색온도 응용: 치우침을 고칠 때와 분위기를 만들 때",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-21"
+      ],
+      "exerciseIds": [
+        "wb"
+      ]
+    },
+    {
+      "id": "page-22",
+      "title": "틴트 응용: 초록을 줄인 뒤 자홍으로 넘기지 않기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-22"
+      ],
+      "exerciseIds": [
+        "wb"
+      ]
+    },
+    {
+      "id": "page-27",
+      "title": "빛의 부드러움은 색온도와 다르다",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-27"
+      ],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-25",
+      "title": "대비 두 종류: 장면 전체와 작은 질감",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-25"
+      ],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-26",
+      "title": "대비: 쨍함과 부드러움",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-26"
+      ],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-28",
+      "title": "색 대비: “쨍함” 말고 무엇이 다른가?",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-28"
+      ],
+      "exerciseIds": [
+        "palette"
+      ]
+    },
+    {
+      "id": "page-29",
+      "title": "동시 대비: 같은 회색도 주변색이 바꾸는 인상",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "palette"
+      ]
+    },
+    {
+      "id": "page-30",
+      "title": "색의 관계: 색상환으로 선택하기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "palette"
+      ]
+    },
+    {
+      "id": "page-31",
+      "title": "배색 세 가지: 단색·유사색·보색 관계",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "palette"
+      ]
+    },
+    {
+      "id": "page-32",
+      "title": "톤온톤·톤인톤: 이름보다 무엇을 맞추는가",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "palette"
+      ]
+    },
+    {
+      "id": "page-33",
+      "title": "면적과 강조색: 조금만 있어도 눈에 띈다",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "palette"
+      ]
+    },
+    {
+      "id": "supp-read_palette",
+      "title": "두 색이 같아도 같은 룩은 아니다",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-34",
+        "compare-37"
+      ],
+      "exerciseIds": [
+        "palette"
+      ]
+    },
+    {
+      "id": "page-34",
+      "title": "모든 색을 진하게 하지 않아도 눈길을 끌 수 있어",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-34"
+      ],
+      "exerciseIds": [
+        "palette"
+      ]
+    },
+    {
+      "id": "page-35",
+      "title": "밝고 연한 색감: 채도만 내리는 것과 비교",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-35"
+      ],
+      "exerciseIds": [
+        "palette"
+      ]
+    },
+    {
+      "id": "page-36",
+      "title": "포근함 만들기: 노랗게만 하면 될까?",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-36"
+      ],
+      "exerciseIds": [
+        "palette"
+      ]
+    },
+    {
+      "id": "page-37",
+      "title": "같은 장면, 다른 이야기: 네 가지 색감 시험",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-37"
+      ],
+      "exerciseIds": [
+        "palette"
+      ]
+    },
+    {
+      "id": "supp-read_time",
+      "title": "한 프레임의 색과 시퀀스의 색",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-37"
+      ],
+      "exerciseIds": [
+        "story-color"
+      ]
+    },
+    {
+      "id": "page-39",
+      "title": "2부 · 색채학으로 보정 판단하기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-40",
+      "title": "의도를 보정 가능한 문장으로 바꾸기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-41",
+      "title": "원본 관찰: 가장 먼저 무엇이 보이는가",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-42",
+      "title": "레퍼런스: 숫자보다 관계를 읽기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-43",
+      "title": "보기 환경: 눈이 적응하는 조건",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-44",
+      "title": "입력·작업·출력: 서로 다른 세 기준",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "pipeline"
+      ]
+    },
+    {
+      "id": "page-45",
+      "title": "이상한 색: 보정 전에 진단하기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-46",
+      "title": "밝기: 주인공과 주변의 순서 만들기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "brightness"
+      ]
+    },
+    {
+      "id": "page-47",
+      "title": "화이트밸런스: 빛을 존중하며 편향 정리",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-48",
+      "title": "대비: 어떤 밝기 차를 바꿀 것인가",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-49",
+      "title": "커브의 기울기: 밝기 차이를 벌리고 모으기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-49"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-50",
+      "title": "커브는 밝기 길을 바꾸는 그림",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-50"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-51",
+      "title": "앵커 점: 바꾸고 싶은 곳과 지키고 싶은 곳",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-51"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-52",
+      "title": "6가지 커브: 결과부터 보기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-52"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-53",
+      "title": "감마형 커브도 가능해: S자만 있는 게 아니다",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-53"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-54",
+      "title": "S커브: 밋밋할 때 먼저 시험",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-54"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-55",
+      "title": "역S커브: 이미 너무 강한 대비",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-55"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-56",
+      "title": "가운데 올리기: 얼굴이 어두울 때",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-56"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-57",
+      "title": "밝은 영역 누르기: 눈부심 줄이기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-57"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-58",
+      "title": "검정점 올리기: 부드러운 검정",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-58"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-59",
+      "title": "의도적 적용 1 · 해변을 역S로 부드럽게",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-59"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-60",
+      "title": "의도적 적용 2 · 야경에 약한 역S",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-60"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-61",
+      "title": "의도적 적용 3 · 검정은 유지하고 그림자만 올리기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-61"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-62",
+      "title": "의도적 적용 4 · 수중 인물을 가운데 커브로",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-62"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-63",
+      "title": "의도적 적용 5 · 검정점만 약하게 들어 올리기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-63"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-64",
+      "title": "의도적 적용 6 · 창빛의 눈부심 누르기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-64"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-65",
+      "title": "일부러 망쳐보기: 평평한 구간과 검정 뭉침",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-65"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-66",
+      "title": "RGB 커브로 색 나누기: 푸른 그림자·따뜻한 밝은 쪽",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-66"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-67",
+      "title": "커브를 겹치면: 같은 조절도 순서에 따라",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-67"
+      ],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-68",
+      "title": "채도: 모든 색을 강하게 만들 필요는 없다",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-69",
+      "title": "부분 보정: 선택과 변화량을 따로 판단",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "qualifier"
+      ]
+    },
+    {
+      "id": "page-70",
+      "title": "피부: 정답 색점보다 조명과 일관성",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "qualifier"
+      ]
+    },
+    {
+      "id": "page-71",
+      "title": "컷 매칭: 장면 안에서 관계를 유지하기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "match"
+      ]
+    },
+    {
+      "id": "page-74",
+      "title": "수중: 없는 적색을 무리하게 만들지 않기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-75",
+      "title": "시간축: 사진처럼 좋아도 영상은 다를 수 있다",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "match"
+      ]
+    },
+    {
+      "id": "page-77",
+      "title": "사례 1 · 따뜻한 카페의 판단 과정",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-77"
+      ],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-78",
+      "title": "사례 2 · 차분한 해변, 역 S의 이유",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-78"
+      ],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-79",
+      "title": "사례 3 · 야경의 어둠은 남겨두기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-79"
+      ],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-80",
+      "title": "사례 4 · 수중 얼굴과 물의 분리",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-80"
+      ],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-72",
+      "title": "룩: 팔레트·톤·질감으로 감정 설계",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "story-color"
+      ]
+    },
+    {
+      "id": "page-73",
+      "title": "필름 인상: 서로 다른 효과의 역할",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-181",
+      "title": "장면 1 · 낮의 부드러움, 검정은 남기기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-182",
+      "title": "장면 2 · 밤의 빛, 따뜻함과 어둠의 분리",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-183",
+      "title": "장면 3 · 보라·연두, 색의 수를 제한하기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-184",
+      "title": "장면 4 · 흑백, 밝기의 역할로 색을 번역하기",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-185",
+      "title": "장면 5 · 황혼, 따뜻한 피부와 차가운 공간",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "film-cases",
+      "title": "블랙스완 영화 사례 · 작품별 찾아보기",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-37"
+      ],
+      "exerciseIds": [
+        "story-color"
+      ]
+    },
+    {
+      "id": "film-atonement",
+      "title": "《어톤먼트》 · 유사색의 연결과 작은 강조색",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "film-darkest-hour",
+      "title": "《다키스트 아워》 · 색상보다 먼저 빛과 어둠의 면적",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "film-kanako",
+      "title": "《갈증 (2014)》 · 시퀀스마다 달라지는 톤과 불안정한 연결",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "film-confessions",
+      "title": "《고백 (2010)》 · 톤을 유지해 감정의 압력을 쌓기",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "film-rush",
+      "title": "《러시: 더 라이벌》 · 진한 색과 재질이 만드는 열기",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "film-f1",
+      "title": "《F1 더 무비》 · 같은 소재라도 다른 시각적 우선순위",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "film-sin-city",
+      "title": "《씬 시티》 · 흑백의 정보 구조와 선택된 색",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "film-300",
+      "title": "《300》 · 제한된 색과 조각 같은 명암",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "film-treacherous",
+      "title": "《간신》 · 익숙한 전통색을 낯설게 만드는 관계",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "film-blade-runner",
+      "title": "《블레이드 러너 2049》 · 한 프레임의 보색에서 시퀀스의 색으로",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-37"
+      ],
+      "exerciseIds": [
+        "story-color"
+      ]
+    },
+    {
+      "id": "film-poor-things",
+      "title": "《가여운 것들》 · 흑백과 컬러를 이야기의 경계로 사용하기",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-37"
+      ],
+      "exerciseIds": [
+        "story-color"
+      ]
+    },
+    {
+      "id": "film-kevin",
+      "title": "《케빈에 대하여》 · 반복되는 사물색과 해석의 경계",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-37"
+      ],
+      "exerciseIds": [
+        "story-color"
+      ]
+    },
+    {
+      "id": "film-fortress",
+      "title": "《남한산성》 · 의상의 명도 관계로 인물의 거리를 읽기",
+      "chapter": "color",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-37"
+      ],
+      "exerciseIds": [
+        "story-color"
+      ]
+    },
+    {
+      "id": "page-186",
+      "title": "부록 B · 유명 미디어 색채 재현 가이드",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-187",
+      "title": "사례 선택 지도",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-188",
+      "title": "Sam Kolder 계열 · 틸 앤 오렌지",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-189",
+      "title": "틸 앤 오렌지 · 툴과 무관한 보정 절차",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-191",
+      "title": "《조커》(2019) · 혼합광과 불안한 도시",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-192",
+      "title": "조커 · 툴과 무관한 보정 절차",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-194",
+      "title": "《라라랜드》(2016) · 황혼과 원색의 로맨스",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-195",
+      "title": "라라랜드 · 툴과 무관한 보정 절차",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-197",
+      "title": "《그랜드 부다페스트 호텔》(2014) · 팔레트 보존",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-198",
+      "title": "그랜드 부다페스트 호텔 · 툴과 무관한 보정 절차",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-200",
+      "title": "《매드맥스: 분노의 도로》(2015) · 그래픽 대비",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-201",
+      "title": "매드맥스: 분노의 도로 · 툴과 무관한 보정 절차",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-203",
+      "title": "《그녀》(2013) · 따뜻하고 부드러운 미래",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-204",
+      "title": "그녀 · 툴과 무관한 보정 절차",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-206",
+      "title": "《블레이드 러너 2049》(2017) · 장면별 색 세계",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-207",
+      "title": "블레이드 러너 2049 · 툴과 무관한 보정 절차",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-209",
+      "title": "《문라이트》(2016) · 푸른 환경 속 피부의 존재감",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-210",
+      "title": "문라이트 · 툴과 무관한 보정 절차",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-212",
+      "title": "내 영상 비교 실습",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-76",
+      "title": "출력 검수: 보정 결과가 전달되는 경로",
+      "chapter": "color",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "principle-shot-scene",
+      "title": "샷의 크기를 바꾸어 장면의 정보를 조립하기",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "coverage"
+      ]
+    },
+    {
+      "id": "principle-direction",
+      "title": "화면 방향을 유지하면서 각도와 크기를 바꾸기",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "direction"
+      ]
+    },
+    {
+      "id": "principle-depth",
+      "title": "가까이 가기와 깊이 찾기: 구도의 구체적인 선택",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "coverage"
+      ]
+    },
+    {
+      "id": "principle-coverage",
+      "title": "움직임의 시작·행동·끝을 편집 재료로 남기기",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "coverage"
+      ]
+    },
+    {
+      "id": "supp-shoot_iso",
+      "title": "ISO보다 먼저, 센서에 들어가는 빛",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "exposure"
+      ]
+    },
+    {
+      "id": "supp-shoot_ei",
+      "title": "S-Log3와 Cine EI는 같은 질문이 아니다",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "exposure"
+      ]
+    },
+    {
+      "id": "supp-shoot_exposure",
+      "title": "제브라·폴스컬러: 무엇을 측정하나",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "exposure"
+      ]
+    },
+    {
+      "id": "supp-shoot_shutter",
+      "title": "180도 셔터: 규칙에서 표현으로",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "exposure",
+        "retime"
+      ]
+    },
+    {
+      "id": "supp-shoot_format",
+      "title": "10비트와 4:2:2는 서로 다른 여유",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "exposure"
+      ]
+    },
+    {
+      "id": "supp-shoot_lens",
+      "title": "센서·심도·포커스: 비교 조건을 먼저",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "supp-light_quality",
+      "title": "부드러운 빛과 평평한 빛은 다르다",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-27"
+      ],
+      "exerciseIds": [
+        "lighting"
+      ]
+    },
+    {
+      "id": "supp-light_book",
+      "title": "바운스와 북 라이팅: 빛의 출처를 넓힌다",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-27"
+      ],
+      "exerciseIds": [
+        "lighting"
+      ]
+    },
+    {
+      "id": "supp-light_motive",
+      "title": "보이는 조명과 실제로 비추는 빛",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-27"
+      ],
+      "exerciseIds": [
+        "lighting"
+      ]
+    },
+    {
+      "id": "supp-light_wb",
+      "title": "화이트밸런스 하나로 두 빛의 관계 바꾸기",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-21",
+        "compare-24"
+      ],
+      "exerciseIds": [
+        "wb"
+      ]
+    },
+    {
+      "id": "supp-light_catch",
+      "title": "눈의 반사와 움직일 때의 조명 변화",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-27"
+      ],
+      "exerciseIds": [
+        "lighting"
+      ]
+    },
+    {
+      "id": "supp-light_flicker",
+      "title": "밝기·색·셔터를 바꾸면 플리커도 다시 확인",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-27"
+      ],
+      "exerciseIds": [
+        "lighting"
+      ]
+    },
+    {
+      "id": "principle-gimbal-design",
+      "title": "짐벌의 모드·몸의 경로·결과 프레임을 나누기",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "gimbal"
+      ]
+    },
+    {
+      "id": "principle-gimbal-route",
+      "title": "피사체와 촬영자의 경로·속도를 함께 설계하기",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "gimbal"
+      ]
+    },
+    {
+      "id": "principle-focus",
+      "title": "피사체 인식과 초점 전환 속도를 따로 선택하기",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "focus"
+      ]
+    },
+    {
+      "id": "page-82",
+      "title": "LOG·RAW·색공간: 서로 다른 질문이다",
+      "chapter": "shoot",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-82"
+      ],
+      "exerciseIds": [
+        "exposure"
+      ]
+    },
+    {
+      "id": "page-134",
+      "title": "LOG·RAW·일반 SDR·스마트폰 HDR",
+      "chapter": "shoot",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "exposure"
+      ]
+    },
+    {
+      "id": "page-38",
+      "title": "색을 많이 바꾸면 줄무늬가 생기는 이유",
+      "chapter": "shoot",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-38"
+      ],
+      "exerciseIds": []
+    },
+    {
+      "id": "supp-color_precision",
+      "title": "원본·내부 계산·표시·출력의 정밀도",
+      "chapter": "shoot",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-154",
+      "title": "밴딩·8/10비트·색차 서브샘플링",
+      "chapter": "shoot",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-reading",
+      "title": "이 책을 작업 중에 쓰는 방법",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-versions",
+      "title": "최신 기능 지도: 11 → 12.4",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-library",
+      "title": "Library·Event·Project를 구분하기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "media"
+      ]
+    },
+    {
+      "id": "prepare-contract",
+      "title": "편집 전에 정할 입력·작업·출력의 약속",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "principle-files",
+      "title": "편집 전 파일 구조에 장소와 촬영 맥락 남기기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "media"
+      ]
+    },
+    {
+      "id": "fcp-ingest",
+      "title": "두 앱이 같은 원본을 찾게 하는 가져오기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "media"
+      ]
+    },
+    {
+      "id": "fcp-shared-media",
+      "title": "병행 작업 폴더와 업데이트 상태표",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "media"
+      ]
+    },
+    {
+      "id": "fcp-project-settings",
+      "title": "해상도·FPS·시간코드의 출발점",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "principle-media",
+      "title": "최적화·프록시·원본: 용량보다 역할로 구분하기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "media"
+      ]
+    },
+    {
+      "id": "fcp-proxy",
+      "title": "Proxy·Optimized·원본과 재생 성능",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "media"
+      ]
+    },
+    {
+      "id": "fcp-search-ai",
+      "title": "검색: 메타데이터·Transcript·Visual",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-selects",
+      "title": "브라우저 선편집: 범위·즐겨찾기·키워드",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-magnetic",
+      "title": "자석 타임라인: 시간 구조와 연결 관계",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "trim"
+      ]
+    },
+    {
+      "id": "fcp-secondary",
+      "title": "Secondary Storyline·Gap·Position 도구",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-assembly",
+      "title": "Append·Insert·Connect·Overwrite·Replace",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "trim"
+      ]
+    },
+    {
+      "id": "fcp-ripple",
+      "title": "Ripple: 길이와 뒤쪽 시간을 함께 바꾸기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "trim"
+      ]
+    },
+    {
+      "id": "fcp-roll",
+      "title": "Roll: 전체 길이는 유지하며 경계 이동",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "trim"
+      ]
+    },
+    {
+      "id": "fcp-slip",
+      "title": "Slip: 컷 위치·길이를 고정하고 내용 바꾸기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "trim"
+      ]
+    },
+    {
+      "id": "fcp-slide",
+      "title": "Slide: 선택 컷 길이를 유지하며 자리 이동",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "trim"
+      ]
+    },
+    {
+      "id": "fcp-precision",
+      "title": "두 화면 트림·프레임 검수·스내핑",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "trim"
+      ]
+    },
+    {
+      "id": "fcp-split-edit",
+      "title": "J-cut·L-cut: 소리와 화면의 경계 나누기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-story-shots",
+      "title": "샷 역할·시선·동작·공간을 이어 붙이기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "direction"
+      ]
+    },
+    {
+      "id": "principle-workflow",
+      "title": "샷 → 씬 → 주제 묶음 → 음악과 마스터",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "principle-flow",
+      "title": "전환보다 먼저: 장면을 묶는 큰 기준",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-alternatives",
+      "title": "Audition·Compound·Multicam·Snapshot",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-multicam",
+      "title": "멀티캠과 외부 오디오 동기화",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-titles-captions",
+      "title": "타이틀·Closed Captions·새 Subtitles",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-edit-detection",
+      "title": "Edit Detection: 완성 영상의 컷 찾기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-rhythm",
+      "title": "박자·프레이즈·드롭과 컷 길이 설계",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "rhythm"
+      ]
+    },
+    {
+      "id": "fcp-music-edit",
+      "title": "한 곡 전체·연장·두 곡 이상을 구성하기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "rhythm"
+      ]
+    },
+    {
+      "id": "fcp-beat-detection",
+      "title": "Beat Detection: 자동 박자 분석 활용",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "rhythm"
+      ]
+    },
+    {
+      "id": "fcp-roles",
+      "title": "Roles·Subroles·오디오 컴포넌트",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "audio"
+      ]
+    },
+    {
+      "id": "fcp-mix",
+      "title": "레벨·페이드·노이즈·대사 명료도",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "audio"
+      ]
+    },
+    {
+      "id": "fcp-sound-design",
+      "title": "현장음·앰비언스·전환 효과음",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-muffled",
+      "title": "물속처럼 먹먹해졌다 선명해지는 소리",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "audio"
+      ]
+    },
+    {
+      "id": "principle-retime",
+      "title": "원본 FPS를 이해한 다음 속도 램프를 설계하기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "retime"
+      ]
+    },
+    {
+      "id": "fcp-retime",
+      "title": "슬로모션·Automatic Speed·속도 램프",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "retime"
+      ]
+    },
+    {
+      "id": "fcp-color-management",
+      "title": "Camera LUT·Color Conform·작업 색공간",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "pipeline"
+      ]
+    },
+    {
+      "id": "fcp-grade-fcp",
+      "title": "파이널컷에서 기본 보정·컷 맞추기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [
+        "compare-97"
+      ],
+      "exerciseIds": [
+        "match"
+      ]
+    },
+    {
+      "id": "fcp-match-color",
+      "title": "새 Match Color: 자동 제안 후 판단하기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [
+        "compare-97"
+      ],
+      "exerciseIds": [
+        "match"
+      ]
+    },
+    {
+      "id": "fcp-transform",
+      "title": "Transform·Crop·Distort·Spatial Conform",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-vertical",
+      "title": "세로 영상·Smart Conform·안전한 화면 영역",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-stabilize",
+      "title": "안정화·롤링셔터와 무빙의 목적",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "gimbal"
+      ]
+    },
+    {
+      "id": "fcp-keyframes",
+      "title": "키프레임·보간·애니메이션의 타이밍",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "mask"
+      ]
+    },
+    {
+      "id": "fcp-mask-basics",
+      "title": "마스크의 두 목적: 합성 분리와 효과 제한",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "mask"
+      ]
+    },
+    {
+      "id": "fcp-magnetic-mask",
+      "title": "Magnetic Mask: 지정한 피사체를 따라 분리",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "mask"
+      ]
+    },
+    {
+      "id": "fcp-auto-mask",
+      "title": "Auto Mask·Object Tracker·Scene Removal의 차이",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "mask"
+      ]
+    },
+    {
+      "id": "fcp-ghost",
+      "title": "인물의 몇 초 전 잔상과 움직이는 배경",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "mask"
+      ]
+    },
+    {
+      "id": "fcp-adjustment",
+      "title": "Adjustment Clip·효과 순서·구간별 룩",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-reuse",
+      "title": "Paste Attributes·프리셋·Motion 템플릿",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-transition-grammar",
+      "title": "전환의 문법: 무엇을 이어주고 무엇을 끊는가",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "transition"
+      ]
+    },
+    {
+      "id": "fcp-transition-handles",
+      "title": "기본 트랜지션과 여유 프레임",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-mask-wipe",
+      "title": "전경 마스크 와이프: 기둥 뒤에서 다음 장소로",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "transition"
+      ]
+    },
+    {
+      "id": "fcp-occlusion-cut",
+      "title": "전체 가림 컷: 마스크 없이 숨기는 연결",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "transition"
+      ]
+    },
+    {
+      "id": "fcp-portal-transition",
+      "title": "문·창문·인물 실루엣을 통과하는 전환",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "transition"
+      ]
+    },
+    {
+      "id": "fcp-match-cut",
+      "title": "그래픽·동작·방향 매치 컷",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "transition"
+      ]
+    },
+    {
+      "id": "fcp-whip-transition",
+      "title": "휘프 팬: 흐림 속도와 방향으로 잇기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "transition"
+      ]
+    },
+    {
+      "id": "fcp-zoom-transition",
+      "title": "줌·돌리·푸시인 연결과 속도 램프",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "retime"
+      ]
+    },
+    {
+      "id": "fcp-light-focus",
+      "title": "빛·초점·물결을 이용한 질감 전환",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "transition"
+      ]
+    },
+    {
+      "id": "fcp-transition-sound",
+      "title": "전환 사운드: 준비·경계·도착",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-transition-debug",
+      "title": "전환이 튈 때: 7가지 비교와 왕복 처리",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "transition"
+      ]
+    },
+    {
+      "id": "fcp-transition-shoot",
+      "title": "촬영 현장에서 확보할 전환용 커버리지",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "transition"
+      ]
+    },
+    {
+      "id": "fcp-creator-study",
+      "title": "실제 장면 분석: 관찰과 재현을 구분하기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-intro-recipes",
+      "title": "짧은 비트 몽타주 인트로를 FCP에 배치하기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "rhythm"
+      ]
+    },
+    {
+      "id": "fcp-film-template",
+      "title": "공개 템플릿 분석: 필름 창·빛샘·타이포",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-cutout-template",
+      "title": "공개 템플릿 분석: 컷아웃을 겹치는 도시 몽타주",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-split-screen",
+      "title": "분할 화면·포토 콜라주를 여행 장면에 적용하기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-outro-recipes",
+      "title": "아웃트로 레시피: 여운·순환·다음 행동",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-cinematic-flow",
+      "title": "한 곡 전체의 여행 영화: 장면과 에너지를 설계하기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "rhythm"
+      ]
+    },
+    {
+      "id": "fcp-turkey-preview",
+      "title": "롱폼 작품의 공개 발췌 분석: 공중 장면에서 정적인 관찰로",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": true,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-longform-study",
+      "title": "롱폼 여행 영화: 실제 작품 분석 대상과 확인 상태",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-style-board",
+      "title": "최근 스타일 부록을 쓰는 법: 관찰표와 응용 카드",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-transition-mini-project",
+      "title": "전환 15초 실험을 한 곡 본편에 적용하기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "principle-effects-relink",
+      "title": "효과 선택과 미디어 오류를 다른 문제로 다루기",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-delivery",
+      "title": "마스터·시청용 출력·최종 검수·보관",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "fcp-final-exercise",
+      "title": "최종 실습: 한 곡 여행 본편과 보정 왕복",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-problems",
+      "title": "편집 문제별 색인",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-labs",
+      "title": "편집 조작 실험실",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-glossary",
+      "title": "FCP 용어·단축키 사전",
+      "chapter": "fcp",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-158",
+      "title": "프록시·캐시·코덱·재생 성능",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "media"
+      ]
+    },
+    {
+      "id": "page-160",
+      "title": "DRP·DRA·백업·전달 체크",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "media",
+        "delivery"
+      ]
+    },
+    {
+      "id": "page-157",
+      "title": "모니터·주변광·캘리브레이션·눈의 적응",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "supp-color_pipeline",
+      "title": "색관리는 변환의 책임을 정하는 일",
+      "chapter": "resolve",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "pipeline"
+      ]
+    },
+    {
+      "id": "page-133",
+      "title": "입력·작업·출력과 색관리",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "pipeline"
+      ]
+    },
+    {
+      "id": "page-135",
+      "title": "장면 기준·디스플레이 기준·LUT 위치",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "pipeline"
+      ]
+    },
+    {
+      "id": "page-136",
+      "title": "SDR·HDR·Rec.709·Gamma 2.4",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "pipeline"
+      ]
+    },
+    {
+      "id": "supp-color_drt",
+      "title": "하이라이트가 접히는 방식: DRT와 톤 매핑",
+      "chapter": "resolve",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "pipeline"
+      ]
+    },
+    {
+      "id": "page-81",
+      "title": "3부 · 리졸브에서 실제로 조절하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-109",
+      "title": "입력 확인: 카메라 이름 다음에 볼 것",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-83",
+      "title": "색관리: RCM이 대체 뭘까?",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "pipeline"
+      ]
+    },
+    {
+      "id": "page-110",
+      "title": "색관리 설정: RCM으로 시작하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "pipeline"
+      ]
+    },
+    {
+      "id": "page-84",
+      "title": "색관리·변환 LUT·분위기 LUT를 구분하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "pipeline"
+      ]
+    },
+    {
+      "id": "supp-color_lut",
+      "title": "LUT는 무엇을 입력받는지부터 확인",
+      "chapter": "resolve",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "pipeline"
+      ]
+    },
+    {
+      "id": "page-111",
+      "title": "클립 입력과 노드: 변환을 겹치지 않기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "pipeline"
+      ]
+    },
+    {
+      "id": "page-112",
+      "title": "D-Log M: 공식 LUT로 따로 연습하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "pipeline"
+      ]
+    },
+    {
+      "id": "page-85",
+      "title": "색채학을 리졸브 도구 선택으로 연결하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "primary"
+      ]
+    },
+    {
+      "id": "page-88",
+      "title": "노드: 보정을 작은 단계로 나누기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "nodes"
+      ]
+    },
+    {
+      "id": "page-148",
+      "title": "직렬·병렬·Layer Mixer 노드",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "nodes"
+      ]
+    },
+    {
+      "id": "page-89",
+      "title": "스코프: 눈을 도와주는 밝기·색 지도",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-89"
+      ],
+      "exerciseIds": [
+        "primary"
+      ]
+    },
+    {
+      "id": "page-137",
+      "title": "Waveform·IRE·밝기 위치 읽기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "primary"
+      ]
+    },
+    {
+      "id": "page-138",
+      "title": "RGB Parade·벡터스코프·히스토그램",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "primary"
+      ]
+    },
+    {
+      "id": "principle-color",
+      "title": "보이는 색과 신호를 함께 읽고 장면별로 판단하기",
+      "chapter": "resolve",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-21",
+        "compare-24"
+      ],
+      "exerciseIds": [
+        "wb",
+        "primary"
+      ]
+    },
+    {
+      "id": "page-90",
+      "title": "웨이브폼 실제 화면: 숫자보다 모양부터",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "primary"
+      ]
+    },
+    {
+      "id": "page-91",
+      "title": "히스토그램: 어느 밝기가 많이 있나?",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "primary"
+      ]
+    },
+    {
+      "id": "page-86",
+      "title": "실제 기본 조절 패널: 밝기와 색을 나눠 만지기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "primary"
+      ]
+    },
+    {
+      "id": "page-87",
+      "title": "밝기 조절: 어디가 함께 바뀔까?",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-87"
+      ],
+      "exerciseIds": [
+        "brightness"
+      ]
+    },
+    {
+      "id": "page-139",
+      "title": "Lift·Gamma·Gain·Offset·노출",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "primary"
+      ]
+    },
+    {
+      "id": "page-140",
+      "title": "HDR 팔레트·Log Wheels의 구간",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "primary"
+      ]
+    },
+    {
+      "id": "page-141",
+      "title": "Contrast·Pivot·Color Boost·Saturation",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "primary"
+      ]
+    },
+    {
+      "id": "page-113",
+      "title": "기본 보정: 밝기와 흰색을 정리하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "primary"
+      ]
+    },
+    {
+      "id": "supp-color_sat",
+      "title": "채도를 올렸는데 빛이 가벼워지는 이유",
+      "chapter": "resolve",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-92",
+      "title": "실제 커브 화면에서 점을 움직여 보기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-93",
+      "title": "배경만 덜 진하게: 선택 색 조절",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-93"
+      ],
+      "exerciseIds": [
+        "qualifier"
+      ]
+    },
+    {
+      "id": "page-94",
+      "title": "선택 커브 이름 읽기: 앞은 고르는 기준, 뒤는 바꾸는 것",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-94"
+      ],
+      "exerciseIds": [
+        "qualifier"
+      ]
+    },
+    {
+      "id": "page-95",
+      "title": "Qualifier: 색·채도·밝기로 골라보기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-95"
+      ],
+      "exerciseIds": [
+        "qualifier"
+      ]
+    },
+    {
+      "id": "page-96",
+      "title": "얼굴만 밝히기: 부분 보정과 추적",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-96"
+      ],
+      "exerciseIds": [
+        "qualifier"
+      ]
+    },
+    {
+      "id": "page-97",
+      "title": "컷 연결: 한 장보다 앞뒤 장면",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-97"
+      ],
+      "exerciseIds": [
+        "match"
+      ]
+    },
+    {
+      "id": "page-98",
+      "title": "수중 장면: 잃어버린 빨강을 억지로 만들지 않기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-98"
+      ],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-108",
+      "title": "3부 · 한 장면을 끝까지 보정하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-114",
+      "title": "해변: 완만한 역 S 커브 만들기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-114"
+      ],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-115",
+      "title": "창문: 하이라이트를 보호하는 조정",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-115"
+      ],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-116",
+      "title": "얼굴: Window와 Tracker로 공간 선택하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-116"
+      ],
+      "exerciseIds": [
+        "qualifier"
+      ]
+    },
+    {
+      "id": "page-117",
+      "title": "배경색: Hue vs Sat와 Qualifier의 차이",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-117"
+      ],
+      "exerciseIds": [
+        "qualifier"
+      ]
+    },
+    {
+      "id": "page-118",
+      "title": "컷 매칭: Gallery로 기준을 고정하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "match"
+      ]
+    },
+    {
+      "id": "page-119",
+      "title": "수중: 색 복원보다 자연스러운 분리",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-119"
+      ],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-142",
+      "title": "Custom Curves·RGB·기울기·앵커",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "curves"
+      ]
+    },
+    {
+      "id": "page-143",
+      "title": "Hue vs 계열·Luma vs Sat·Sat vs Sat",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "qualifier"
+      ]
+    },
+    {
+      "id": "page-144",
+      "title": "Qualifier·매트·Clean Black/White",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "qualifier"
+      ]
+    },
+    {
+      "id": "page-145",
+      "title": "Power Window·Inside/Outside·경계",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "qualifier"
+      ]
+    },
+    {
+      "id": "page-146",
+      "title": "Tracker·키프레임·가림 처리",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "qualifier"
+      ]
+    },
+    {
+      "id": "page-147",
+      "title": "Magic Mask·일반 마스크·무료판",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "qualifier"
+      ]
+    },
+    {
+      "id": "page-149",
+      "title": "Clip·Group·Timeline·Shared Node",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "nodes"
+      ]
+    },
+    {
+      "id": "supp-color_group",
+      "title": "공통 변환·개별 보정·공통 룩의 위치",
+      "chapter": "resolve",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "nodes"
+      ]
+    },
+    {
+      "id": "page-150",
+      "title": "노드 템플릿·PowerGrade·DRX·LUT",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "nodes"
+      ]
+    },
+    {
+      "id": "supp-color_reuse",
+      "title": "Still·Version·PowerGrade를 다르게 사용하기",
+      "chapter": "resolve",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "nodes"
+      ]
+    },
+    {
+      "id": "page-151",
+      "title": "Gallery·버전·컷 매칭·자동 매칭",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "match"
+      ]
+    },
+    {
+      "id": "page-152",
+      "title": "공간·시간 노이즈 감소·색 잡음",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "supp-color_nr",
+      "title": "노이즈 제거: 정지 화면보다 움직임을 본다",
+      "chapter": "resolve",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-101",
+        "compare-102"
+      ],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-153",
+      "title": "Midtone Detail·Blur·Sharpen·해상도",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "supp-color_detail",
+      "title": "디지털 선예도를 줄이는 것과 필름 질감",
+      "chapter": "resolve",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-101",
+        "compare-102"
+      ],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-155",
+      "title": "클리핑·RAW Highlight Recovery",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-159",
+      "title": "여행·광고·수중: 장면별 판단 분기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-99",
+      "title": "잡음·그레인·압축: 질감이 생긴 이유부터",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-100",
+      "title": "필름룩: 입자 하나보다 여러 요소의 조합",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-100"
+      ],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-101",
+      "title": "할레이션: 밝은 경계의 따뜻한 번짐",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-101",
+        "compare-101-detail"
+      ],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-102",
+      "title": "필름그레인: 미세한 질감을 더하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-102"
+      ],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-103",
+      "title": "몽환적인 빛번짐: 원본을 통째로 흐리지 않기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-103"
+      ],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-104",
+      "title": "Film Look Creator: 여러 효과를 한곳에서",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-120",
+      "title": "필름 룩: 효과마다 목적을 하나씩",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-120"
+      ],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-161",
+      "title": "4부 · 필름 룩을 설계하는 사전",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-162",
+      "title": "토·숄더·검정점·하이라이트 롤오프",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-163",
+      "title": "필름 프린트 LUT·에뮬레이션과 입력 조건",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-164",
+      "title": "Split Tone·밝기별 색 분리",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-165",
+      "title": "색 밀도·하이라이트 채도·팔레트 제한",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-166",
+      "title": "Bleach Bypass·실버 리텐션의 인상",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-167",
+      "title": "필름 그레인: 크기·강도·시간·해상도",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-168",
+      "title": "할레이션: 밝은 경계의 색 번짐",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-169",
+      "title": "Bloom·Glow·Diffusion의 차이",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-170",
+      "title": "렌즈의 부드러움·미세 대비·초점",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-171",
+      "title": "비네트: 렌즈 인상과 시선 유도",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-172",
+      "title": "색수차·렌즈 플레어·빛 줄기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-173",
+      "title": "Gate Weave·Film Gate·프레임 모양",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-174",
+      "title": "Flicker·노출 호흡·밝기 변화",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-175",
+      "title": "먼지·스크래치·라이트 리크·Analog Damage",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-176",
+      "title": "모노크롬·부분 색·색 필터의 창작",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-177",
+      "title": "Film Look Creator: 기본 룩과 효과 분리",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-178",
+      "title": "효과 순서·Key Output Gain·LUT 한계",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-179",
+      "title": "네 가지 필름 룩 레시피와 변형",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-180",
+      "title": "필름 룩 검수·압축·보관",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "texture"
+      ]
+    },
+    {
+      "id": "page-190",
+      "title": "틸 앤 오렌지 · 리졸브에서 구현하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-193",
+      "title": "조커 · 리졸브에서 구현하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-196",
+      "title": "라라랜드 · 리졸브에서 구현하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-199",
+      "title": "그랜드 부다페스트 호텔 · 리졸브에서 구현하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-202",
+      "title": "매드맥스: 분노의 도로 · 리졸브에서 구현하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-205",
+      "title": "그녀 · 리졸브에서 구현하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-208",
+      "title": "블레이드 러너 2049 · 리졸브에서 구현하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-211",
+      "title": "문라이트 · 리졸브에서 구현하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-107",
+      "title": "마지막 확인: 예쁜 한 컷보다 완성된 영상",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "page-121",
+      "title": "출력: 보정과 파일 해석을 함께 검수하기",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "page-156",
+      "title": "Full/Video 레벨·색 태그·Rec.709-A",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "page-105",
+      "title": "무료 버전에서 연습할 수 있는 방향",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [
+        "compare-105"
+      ],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-106",
+      "title": "막히면 무엇부터 볼까?",
+      "chapter": "resolve",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "curriculum-order",
+      "title": "전체 학습 순서를 이렇게 바꿨어요",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-2",
+      "title": "책의 출발점: 색을 보고 이유를 말하기",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "supp-sound_roles",
+      "title": "음악·현장음·효과음의 역할을 나누기",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "audio"
+      ]
+    },
+    {
+      "id": "supp-sound_format",
+      "title": "샘플레이트와 비트 깊이는 다른 축",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "audio"
+      ]
+    },
+    {
+      "id": "supp-sound_levels",
+      "title": "Peak·RMS·LUFS는 무엇을 보는가",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "audio"
+      ]
+    },
+    {
+      "id": "supp-sound_dynamics",
+      "title": "노멀라이즈와 컴프레서는 다른 일을 한다",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "audio"
+      ]
+    },
+    {
+      "id": "supp-sound_float",
+      "title": "32-bit float 녹음이 보호하는 범위",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "audio"
+      ]
+    },
+    {
+      "id": "page-213",
+      "title": "부록 출처",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-214",
+      "title": "부록 B · 출처와 확인 범위 2",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "supp-edit_bridge",
+      "title": "Resolve의 원리를 Final Cut 작업으로 옮기기",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "roundtrip"
+      ]
+    },
+    {
+      "id": "supp-edit_handoff",
+      "title": "FCP ↔ Resolve: XML은 실시간 동기화가 아니다",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "roundtrip"
+      ]
+    },
+    {
+      "id": "fcp-live-truth",
+      "title": "동시 작업과 실시간 반영의 정확한 범위",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-workflow-choice",
+      "title": "세 가지 왕복 방식과 선택 기준",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-roundtrip-contract",
+      "title": "작업 계약: 무엇을 어느 앱에서 끝낼까",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "roundtrip"
+      ]
+    },
+    {
+      "id": "fcp-preflight",
+      "title": "왕복 전 준비: 버전·파일·참조 영상",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "roundtrip"
+      ]
+    },
+    {
+      "id": "fcp-xml-export",
+      "title": "FCPXML 내보내기와 버전 호환",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "roundtrip"
+      ]
+    },
+    {
+      "id": "fcp-conform",
+      "title": "Resolve 가져오기와 conform: 색보다 먼저",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "roundtrip"
+      ]
+    },
+    {
+      "id": "fcp-risk-effects",
+      "title": "속도 램프·안정화·합성·트랜지션 전달",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "roundtrip"
+      ]
+    },
+    {
+      "id": "fcp-handles",
+      "title": "Handles·파일 이름·색 적용 범위",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "roundtrip"
+      ]
+    },
+    {
+      "id": "fcp-grade-resolve",
+      "title": "Resolve 색관리와 최종 보정 설계",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "roundtrip"
+      ]
+    },
+    {
+      "id": "fcp-return-render",
+      "title": "Resolve 반환: Individual Clips + FCPXML",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "roundtrip"
+      ]
+    },
+    {
+      "id": "fcp-return-finalize",
+      "title": "FCP 마무리: 반환본·원래 소리·타이틀 결합",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "roundtrip"
+      ]
+    },
+    {
+      "id": "fcp-revision",
+      "title": "수정 왕복: 색 변경·트림·새 컷을 나누기",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "roundtrip"
+      ]
+    },
+    {
+      "id": "fcp-color-difference",
+      "title": "색이 다르게 보일 때의 진단 순서",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "roundtrip"
+      ]
+    },
+    {
+      "id": "fcp-mixed-machines",
+      "title": "M3 Pro와 RTX 4080 Super를 함께 쓰는 경우",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": true,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "roundtrip"
+      ]
+    },
+    {
+      "id": "supp-sound_delivery",
+      "title": "음량 목표를 하나의 영구 숫자로 외우지 않기",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "principle-output",
+      "title": "출력 크기와 기록된 디테일을 구분하기",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": [
+        "delivery"
+      ]
+    },
+    {
+      "id": "page-1",
+      "title": "읽는 법과 목차",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-3",
+      "title": "학습 지도: 원리에서 조작으로",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-4",
+      "title": "목차 · 1부 색채학",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-5",
+      "title": "목차 · 2부 툴 독립 색보정",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-6",
+      "title": "목차 · 3부 다빈치 리졸브",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-7",
+      "title": "이 책으로 연습하는 방법",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-122",
+      "title": "영어 교재 없이 공식 푸티지로 연습하기",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-123",
+      "title": "색감 감각 훈련: 본 장면을 조절 가능한 말로",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-124",
+      "title": "감각을 키우는 10일: 하루 15~20분",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-125",
+      "title": "작은 사전: 외우기보다 다시 찾기",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-126",
+      "title": "참고 채널과 함께 공부하는 길",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-127",
+      "title": "그림과 화면의 출처",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-128",
+      "title": "출처와 판 사용 기준",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-129",
+      "title": "3부 보충사전 · 문제와 도구로 찾아보기",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-130",
+      "title": "문제 색인 2 · 선택·공유·출력",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-131",
+      "title": "도구·용어 색인 · 영어 이름으로 찾기",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "page-132",
+      "title": "필름 룩·창작·미디어 사례 색인",
+      "chapter": "other",
+      "pageImage": true,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-matrix",
+      "title": "왕복 전달 표",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-checklist",
+      "title": "왕복 체크리스트",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "fcp-sources",
+      "title": "FCP 자료의 기준과 출처",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    },
+    {
+      "id": "ejim-sources",
+      "title": "Ejim 81편 · 검토 기록",
+      "chapter": "other",
+      "pageImage": false,
+      "embeddedImage": false,
+      "existingDiagram": false,
+      "comparisonIds": [],
+      "exerciseIds": []
+    }
+  ]
+}

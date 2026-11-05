@@ -48,5 +48,20 @@ assert len(films)==14
 assert all('근거 구분' in e['html'] for e in films if e['id']!='film-cases')
 assert 'film-atonement' in [e['id'] for e in films]
 assert [c['title'] for c in data['chapters']]==['색채학','촬영','파이널컷(컷편집)','다빈치리졸브(색보정)','기타']
-assert len({e['id'] for e in data['entries']})==368
-print('PASS: exactly 5 subject chapters; every lesson has a category and topic; all 368 entries preserved.')
+assert len([e for e in data['entries'] if not e['id'].startswith('study-')])==368
+assert len(data['entries'])==374
+print('PASS: exactly 5 subject chapters; every lesson has a category and topic; all 368 original entries preserved + 6 study entries.')
+
+study=data['study'];assert len(study['exercises'])==26 and len(study['comparisons'])==62
+assert len({e['id'] for e in study['exercises']})==26
+for e in study['exercises']:
+ assert set(e['targets'])<=set(ids),e['id']
+ assert len(e['steps'])==4 and len(e['criteria'])==3,e['id']
+ assert all(e.get(k) for k in ['materials','hint','answer','fail']),e['id']
+ if e.get('screen'):assert (R/'docs'/e['screen']['src']).is_file(),e['id']
+for c in study['comparisons']:
+ assert c['before'] in book['images'],c['id']
+ assert all(v['image'] in book['images'] for v in c['variants']),c['id']
+ assert all((R/'docs'/book['images'][k]).is_file() for k in [c['before']]+[v['image'] for v in c['variants']]),c['id']
+assert len(json.loads((R/'content/study-audit.json').read_text())['entries'])==368
+print('PASS: 26 exercises with 4 steps / 3 completion criteria; 62 contextual comparisons; all study assets and links valid.')
