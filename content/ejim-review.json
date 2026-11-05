@@ -1,0 +1,650 @@
+[
+  {
+    "label": "ISO는 감도가 아니다 6분 30초",
+    "title": "ISO는 감도가 아니다",
+    "url": "https://www.youtube.com/watch?v=mB1gHER2yik&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=1&pp=iAQB",
+    "id": "mB1gHER2yik",
+    "course": 0,
+    "note": "ISO 값과 실제 입사광·노이즈를 분리 → 촬영 노출"
+  },
+  {
+    "label": "빠르고 간단한 S-LOG3 노출과 컬러 그레이딩 10분 40초",
+    "title": "빠르고 간단한 S-LOG3 노출과 컬러 그레이딩",
+    "url": "https://www.youtube.com/watch?v=eNbCdmD0SRI&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=2&pp=iAQB",
+    "id": "eNbCdmD0SRI",
+    "course": 0,
+    "note": "S-Log3 노출과 기술 변환의 연결 → 촬영·색관리"
+  },
+  {
+    "label": "네이티브 ISO 보다 낮게 촬영하면? 확장 ISO 감도? 8분 8초",
+    "title": "네이티브 ISO 보다 낮게 촬영하면? 확장 ISO 감도?",
+    "url": "https://www.youtube.com/watch?v=A9pQP7jsS94&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=3&pp=iAQB0gcJCSoMAYcqIYzv",
+    "id": "A9pQP7jsS94",
+    "course": 0,
+    "note": "확장 ISO와 하이라이트 여유의 조건 → 기종별 확인"
+  },
+  {
+    "label": "룰은 깨라고 있는 거라고 - 180도 셔터 앵글(개각도/셔터 스피드) 9분 1초",
+    "title": "룰은 깨라고 있는 거라고 - 180도 셔터 앵글(개각도/셔터 스피드)",
+    "url": "https://www.youtube.com/watch?v=XfWRuTw0BHw&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=4&pp=iAQB",
+    "id": "XfWRuTw0BHw",
+    "course": 0,
+    "note": "180도 셔터의 목적과 예외 → 동작 표현"
+  },
+  {
+    "label": "Cine EI와 S-Log3는 차이가 있을까? 4분 24초",
+    "title": "Cine EI와 S-Log3는 차이가 있을까?",
+    "url": "https://www.youtube.com/watch?v=82CWsxlIatw&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=5&pp=iAQB",
+    "id": "82CWsxlIatw",
+    "course": 0,
+    "note": "Cine EI 운용과 로그 곡선의 구분 → 촬영"
+  },
+  {
+    "label": "흰색이 아니라고? 색온도와 화이트 밸런스 이야기 9분 24초",
+    "title": "흰색이 아니라고? 색온도와 화이트 밸런스 이야기",
+    "url": "https://www.youtube.com/watch?v=UhkdPWVwUts&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=6&pp=iAQB",
+    "id": "UhkdPWVwUts",
+    "course": 0,
+    "note": "WB의 기준 광원과 혼합광 → 촬영·라이팅"
+  },
+  {
+    "label": "센서 크기와 심도, 우리가 잘못 알고 있는 것들 9분 43초",
+    "title": "센서 크기와 심도, 우리가 잘못 알고 있는 것들",
+    "url": "https://www.youtube.com/watch?v=GJ0xG3WJLIE&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=7&pp=iAQB",
+    "id": "GJ0xG3WJLIE",
+    "course": 0,
+    "note": "센서 비교에서 화각·거리·심도를 고정 → 렌즈 판단"
+  },
+  {
+    "label": "무조건 바꿔야 하는 AF 설정 두 가지 2분 29초",
+    "title": "무조건 바꿔야 하는 AF 설정 두 가지",
+    "url": "https://www.youtube.com/watch?v=O9iozxopRA0&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=8&pp=iAQB",
+    "id": "O9iozxopRA0",
+    "course": 0,
+    "note": "AF 전환 속도와 피사체 전환 감도의 차이 → 촬영"
+  },
+  {
+    "label": "Cine EI 이해와 활용 10분 18초",
+    "title": "Cine EI 이해와 활용",
+    "url": "https://www.youtube.com/watch?v=54uskyb__OM&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=9&pp=iAQB",
+    "id": "54uskyb__OM",
+    "course": 0,
+    "note": "EI 표시와 실제 노출 변경을 구분 → 촬영"
+  },
+  {
+    "label": "폴스 컬러(False Color)로 완벽한 영상 노출 맞추기 8분 13초",
+    "title": "폴스 컬러(False Color)로 완벽한 영상 노출 맞추기",
+    "url": "https://www.youtube.com/watch?v=uVwOzN7h-2I&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=10&pp=iAQB",
+    "id": "uVwOzN7h-2I",
+    "course": 0,
+    "note": "폴스컬러의 신호 위치와 범례 확인 → 노출 도구"
+  },
+  {
+    "label": "타임코드(Timecode)가 무엇이고 어떻게 사용하는가? 9분 2초",
+    "title": "타임코드(Timecode)가 무엇이고 어떻게 사용하는가?",
+    "url": "https://www.youtube.com/watch?v=bnidn-tlVkM&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=11&pp=iAQB0gcJCSoMAYcqIYzv",
+    "id": "bnidn-tlVkM",
+    "course": 0,
+    "note": "타임코드는 식별·정렬, 클럭 동기와 별개 → 전달"
+  },
+  {
+    "label": "파나소닉 S5ii / S5iix 영상 촬영 설정 A to Z 14분 58초",
+    "title": "파나소닉 S5ii / S5iix 영상 촬영 설정 A to Z",
+    "url": "https://www.youtube.com/watch?v=wKDpDtJVmhQ&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=12&pp=iAQB",
+    "id": "wKDpDtJVmhQ",
+    "course": 0,
+    "note": "Panasonic 메뉴 사례 → 내 Sony 메뉴로 직접 복제하지 않음"
+  },
+  {
+    "label": "소니 S-Log3 노출이 거저먹기가 되었다 5분 19초",
+    "title": "소니 S-Log3 노출이 거저먹기가 되었다",
+    "url": "https://www.youtube.com/watch?v=l9RlRWz80Ck&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=13&pp=iAQB",
+    "id": "l9RlRWz80Ck",
+    "course": 0,
+    "note": "Sony용 폴스컬러 LUT의 입력 조건 → 노출 도구"
+  },
+  {
+    "label": "VND 혹시 이것 아셨나요? 1분 33초",
+    "title": "VND 혹시 이것 아셨나요?",
+    "url": "https://www.youtube.com/watch?v=MqjGxlVElQ8&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=14&pp=iAQB",
+    "id": "MqjGxlVElQ8",
+    "course": 0,
+    "note": "VND의 편광·반사·색 변화 → 촬영 필터"
+  },
+  {
+    "label": "컬러 뎁스(Color Depth)와 크로마 서브샘플링(Chroma Subsampling) 5분 22초",
+    "title": "컬러 뎁스(Color Depth)와 크로마 서브샘플링(Chroma Subsampling)",
+    "url": "https://www.youtube.com/watch?v=Veshm3p4ZRw&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=15&pp=iAQB",
+    "id": "Veshm3p4ZRw",
+    "course": 0,
+    "note": "비트 깊이와 크로마 서브샘플링을 구분 → 기록 형식"
+  },
+  {
+    "label": "오픈 게이트와 아나모픽 렌즈 3분 47초",
+    "title": "오픈 게이트와 아나모픽 렌즈",
+    "url": "https://www.youtube.com/watch?v=Vc3v8WbfqNY&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=16&pp=iAQB",
+    "id": "Vc3v8WbfqNY",
+    "course": 0,
+    "note": "오픈게이트의 후반 재구성 여유 → 구도·출력 목적"
+  },
+  {
+    "label": "샷 리버스 샷(Shot-reverse shot) 6분 32초",
+    "title": "샷 리버스 샷(Shot-reverse shot)",
+    "url": "https://www.youtube.com/watch?v=pWmvp2H6KC8&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=17&pp=iAQB",
+    "id": "pWmvp2H6KC8",
+    "course": 0,
+    "note": "샷·리버스샷의 관계 설명 → 실제 장면 검증은 보류"
+  },
+  {
+    "label": "루믹스 카메라 매뉴얼 포커싱 설정 - S5M2, S5M2X, S1M2, S1R2, S9 5분",
+    "title": "루믹스 카메라 매뉴얼 포커싱 설정 - S5M2, S5M2X, S1M2, S1R2, S9",
+    "url": "https://www.youtube.com/watch?v=xOhlrlRUpPE&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=18&pp=iAQB",
+    "id": "xOhlrlRUpPE",
+    "course": 0,
+    "note": "Lumix 초점 기능 사례 → 지원 기종 조건"
+  },
+  {
+    "label": "텔레컨버터, 익스텐션 튜브, 접사 디옵터의 장단점 10분 32초",
+    "title": "텔레컨버터, 익스텐션 튜브, 접사 디옵터의 장단점",
+    "url": "https://www.youtube.com/watch?v=HdlS_AJhqfc&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=19&pp=iAQB",
+    "id": "HdlS_AJhqfc",
+    "course": 0,
+    "note": "매크로 도구의 거리·배율·심도 → 장비 특수 사례"
+  },
+  {
+    "label": "이걸 써야 하는 또 다른 이유 50초",
+    "title": "이걸 써야 하는 또 다른 이유",
+    "url": "https://www.youtube.com/watch?v=9rNOstrXTFY&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=20&pp=iAQB",
+    "id": "9rNOstrXTFY",
+    "course": 0,
+    "note": "폴스컬러 표시와 플리커 혼동 구분 → 노출 도구"
+  },
+  {
+    "label": "파나소닉 미러리스 폴스컬러 LUT - False Color Monitoring LUT for Panasonic V-Log 5분 46초",
+    "title": "파나소닉 미러리스 폴스컬러 LUT - False Color Monitoring LUT for Panasonic V-Log",
+    "url": "https://www.youtube.com/watch?v=Y3n5bzXRY3w&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=21&pp=iAQB",
+    "id": "Y3n5bzXRY3w",
+    "course": 0,
+    "note": "V-Log 전제의 폴스컬러 LUT → Sony에 그대로 사용하지 않음"
+  },
+  {
+    "label": "리니어(Linear) vs 넌 리니어(Non-Linear) 포커스 렌즈 5분 1초",
+    "title": "리니어(Linear) vs 넌 리니어(Non-Linear) 포커스 렌즈",
+    "url": "https://www.youtube.com/watch?v=59qnfTU16ik&list=PLe5TlVjA95zme8JzLPtBs5MqMR34SL2O9&index=22&pp=iAQB",
+    "id": "59qnfTU16ik",
+    "course": 0,
+    "note": "리니어 포커스의 반복성과 지원 렌즈 → 초점 운용"
+  },
+  {
+    "label": "Log로 찍고 LUT 먹이면 끝? / 컬러 그레이딩의 정석 22분",
+    "title": "Log로 찍고 LUT 먹이면 끝? / 컬러 그레이딩의 정석",
+    "url": "https://www.youtube.com/watch?v=4j2e9yyPL_8&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=1&pp=iAQB",
+    "id": "4j2e9yyPL_8",
+    "course": 1,
+    "note": "LUT의 입력 감마·색역과 강도 혼합 → 색관리"
+  },
+  {
+    "label": "다빈치 리졸브 컬러 그레이딩 기본 / 컬러 휠, 로그 휠, 커브, 컬러 매칭 18분",
+    "title": "다빈치 리졸브 컬러 그레이딩 기본 / 컬러 휠, 로그 휠, 커브, 컬러 매칭",
+    "url": "https://www.youtube.com/watch?v=dYsB343ylPE&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=3&pp=iAQB",
+    "id": "dYsB343ylPE",
+    "course": 1,
+    "note": "기본 휠의 범위와 화면 변화 → 기존 도구 단원 연결"
+  },
+  {
+    "label": "다빈치 리졸브 속도 200% UP! 최적화 12분 4초",
+    "title": "다빈치 리졸브 속도 200% UP! 최적화",
+    "url": "https://www.youtube.com/watch?v=-O9OEvpgma4&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=4&pp=iAQB",
+    "id": "-O9OEvpgma4",
+    "course": 1,
+    "note": "성능·캐시·대체 미디어 목적 구분 → 편집 반응"
+  },
+  {
+    "label": "영상의 노이즈 제거 - 다빈치 리졸브 노이즈 리덕션 8분 31초",
+    "title": "영상의 노이즈 제거 - 다빈치 리졸브 노이즈 리덕션",
+    "url": "https://www.youtube.com/watch?v=ywWVV-FzZto&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=5&pp=iAQB",
+    "id": "ywWVV-FzZto",
+    "course": 1,
+    "note": "시간·공간 NR과 디테일 교환 → 노이즈 제거"
+  },
+  {
+    "label": "편집 시간을 획기적으로 줄여주는 단축키 5분 30초",
+    "title": "편집 시간을 획기적으로 줄여주는 단축키",
+    "url": "https://www.youtube.com/watch?v=fKeL6Y8BI_0&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=6&pp=iAQB",
+    "id": "fKeL6Y8BI_0",
+    "course": 1,
+    "note": "반복 동작 단축과 선택 범위 → 편집 효율"
+  },
+  {
+    "label": "유튜브 영상을 위한 다빈치 리졸브 오디오 워크플로우 🎧 16분",
+    "title": "유튜브 영상을 위한 다빈치 리졸브 오디오 워크플로우 🎧",
+    "url": "https://www.youtube.com/watch?v=Qv5RL5SPihU&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=7&pp=iAQB",
+    "id": "Qv5RL5SPihU",
+    "course": 1,
+    "note": "오디오 기본 작업 흐름 → 사운드 단원 연결"
+  },
+  {
+    "label": "다빈치 리졸브 컬러 매니지먼트(Resolve Color Management) - 타임라인/출력 색공간 설정의 이해 11분",
+    "title": "다빈치 리졸브 컬러 매니지먼트(Resolve Color Management) - 타임라인/출력 색공간 설정의 이해",
+    "url": "https://www.youtube.com/watch?v=cfPQM210DlQ&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=8&pp=iAQB",
+    "id": "cfPQM210DlQ",
+    "course": 1,
+    "note": "RCM 자동 처리와 수동 CST의 책임 → 색관리"
+  },
+  {
+    "label": "다빈치 참치 김밥 + 김치 라면 9분 37초",
+    "title": "다빈치 참치 김밥 + 김치 라면",
+    "url": "https://www.youtube.com/watch?v=_pV7YTgZqco&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=9&pp=iAQB",
+    "id": "_pV7YTgZqco",
+    "course": 1,
+    "note": "WB·선택 NR·명도 선명도 → 문제를 따로 해결"
+  },
+  {
+    "label": "필름룩 컬러 그레이딩의 혁명 DRT (무료) 10분 12초",
+    "title": "필름룩 컬러 그레이딩의 혁명 DRT (무료)",
+    "url": "https://www.youtube.com/watch?v=SOBfiC_uQp0&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=10&pp=iAQB",
+    "id": "SOBfiC_uQp0",
+    "course": 1,
+    "note": "DRT와 하이라이트·색역 매핑 → 출력 변환"
+  },
+  {
+    "label": "블랙매직 컬러 사이언스 Gen 6 6분 8초",
+    "title": "블랙매직 컬러 사이언스 Gen 6",
+    "url": "https://www.youtube.com/watch?v=bUTuGKIaKuc&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=11&pp=iAQB",
+    "id": "bUTuGKIaKuc",
+    "course": 1,
+    "note": "필름 룩 도구의 입력·버전 조건 → 프리셋 맹신 방지"
+  },
+  {
+    "label": "다빈치 리졸브 DCTL의 이해와 활용 (+무료 DCTL) 6분 45초",
+    "title": "다빈치 리졸브 DCTL의 이해와 활용 (+무료 DCTL)",
+    "url": "https://www.youtube.com/watch?v=6ckXscQFHgw&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=12&pp=iAQB",
+    "id": "6ckXscQFHgw",
+    "course": 1,
+    "note": "DCTL은 사용자 정의 처리 코드 → 설치·호환 조건"
+  },
+  {
+    "label": "필름룩의 시작 9분 16초",
+    "title": "필름룩의 시작",
+    "url": "https://www.youtube.com/watch?v=oiwytIOzcNA&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=13&pp=iAQB",
+    "id": "oiwytIOzcNA",
+    "course": 1,
+    "note": "미세 대비·블러·선택적 에지 완화 → 디지털 선예도 조절"
+  },
+  {
+    "label": "스마트한 사람은 이걸 쓴다 - 다빈치 리졸브 스마트 빈 7분 14초",
+    "title": "스마트한 사람은 이걸 쓴다 - 다빈치 리졸브 스마트 빈",
+    "url": "https://www.youtube.com/watch?v=QcO8KviJN3w&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=14&pp=iAQB",
+    "id": "QcO8KviJN3w",
+    "course": 1,
+    "note": "Smart Bin은 메타데이터 기반 검색 → FCP 분류 연결"
+  },
+  {
+    "label": "컬러 그레이딩 저장과 적용 - 다빈치 리졸브 PowerGrade 4분 33초",
+    "title": "컬러 그레이딩 저장과 적용 - 다빈치 리졸브 PowerGrade",
+    "url": "https://www.youtube.com/watch?v=mSW6FPrbvbc&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=15&pp=iAQB",
+    "id": "mSW6FPrbvbc",
+    "course": 1,
+    "note": "PowerGrade의 프로젝트 간 재사용 → 입력 조건 명시"
+  },
+  {
+    "label": "다빈치 리졸브 컬러 그레이딩 - 스틸과 버전 8분 35초",
+    "title": "다빈치 리졸브 컬러 그레이딩 - 스틸과 버전",
+    "url": "https://www.youtube.com/watch?v=4twVdi0yXj4&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=16&pp=iAQB",
+    "id": "4twVdi0yXj4",
+    "course": 1,
+    "note": "Still·Version의 참조·대안 구분 → 비교와 복구"
+  },
+  {
+    "label": "꼭 확인해야 할 다빈치 리졸브 렌더 옵션과 스피드업 팁 9분 10초",
+    "title": "꼭 확인해야 할 다빈치 리졸브 렌더 옵션과 스피드업 팁",
+    "url": "https://www.youtube.com/watch?v=ay6JBo3tTVo&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=17&pp=iAQB",
+    "id": "ay6JBo3tTVo",
+    "course": 1,
+    "note": "렌더 옵션의 목적과 원본·캐시 참조 → 최종 출력"
+  },
+  {
+    "label": "타임라인 색공간? 다빈치 리졸브 컬러 매니지먼트 11분 15초",
+    "title": "타임라인 색공간? 다빈치 리졸브 컬러 매니지먼트",
+    "url": "https://www.youtube.com/watch?v=9KJm629CZNc&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=18&pp=iAQB0gcJCSoMAYcqIYzv",
+    "id": "9KJm629CZNc",
+    "course": 1,
+    "note": "Timeline Color Space 설정과 실제 변환 구분 → 색관리"
+  },
+  {
+    "label": "다빈치 리졸브 트림 편집 모드(Trim Edit Mode) 8분 1초",
+    "title": "다빈치 리졸브 트림 편집 모드(Trim Edit Mode)",
+    "url": "https://www.youtube.com/watch?v=PfhGc3EQnsk&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=19&pp=iAQB",
+    "id": "PfhGc3EQnsk",
+    "course": 1,
+    "note": "트림 도구로 컷의 앞뒤 정보 조정 → 편집"
+  },
+  {
+    "label": "다빈치 리졸브 CST(Color Space Transform) 마스터 클래스 11분 49초",
+    "title": "다빈치 리졸브 CST(Color Space Transform) 마스터 클래스",
+    "url": "https://www.youtube.com/watch?v=qFpUi2ivgz4&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=20&pp=iAQB0gcJCSoMAYcqIYzv",
+    "id": "qFpUi2ivgz4",
+    "course": 1,
+    "note": "CST의 입력·작업·출력 변환 → 색관리"
+  },
+  {
+    "label": "시네마틱 세츄레이션? 가산 채도(Additive Saturation)와 감산 채도(Subtractive Saturation) 8분 8초",
+    "title": "시네마틱 세츄레이션? 가산 채도(Additive Saturation)와 감산 채도(Subtractive Saturation)",
+    "url": "https://www.youtube.com/watch?v=mGVOXIQGgdc&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=21&pp=iAQB",
+    "id": "mGVOXIQGgdc",
+    "course": 1,
+    "note": "가산·감산 채도는 처리와 룩의 비유 → 물리 혼색과 구분"
+  },
+  {
+    "label": "다빈치 리졸브 무료 버전과 10bit 영상 3분 7초",
+    "title": "다빈치 리졸브 무료 버전과 10bit 영상",
+    "url": "https://www.youtube.com/watch?v=ZEZ7V3Sondw&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=22&pp=iAQB",
+    "id": "ZEZ7V3Sondw",
+    "course": 1,
+    "note": "무료판 10bit 지원은 OS·코덱·버전별 확인 → 정밀도"
+  },
+  {
+    "label": "다빈치 리졸브 Referenced Composition 활용하기 8분 45초",
+    "title": "다빈치 리졸브 Referenced Composition 활용하기",
+    "url": "https://www.youtube.com/watch?v=UzQrekTKeTs&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=23&pp=iAQB",
+    "id": "UzQrekTKeTs",
+    "course": 1,
+    "note": "참조 화면 비교의 기준 → 샷 매칭"
+  },
+  {
+    "label": "32bit Float 오디오 프로세싱 8분 38초",
+    "title": "32bit Float 오디오 프로세싱",
+    "url": "https://www.youtube.com/watch?v=S-FTHwrUbG0&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=24&pp=iAQB",
+    "id": "S-FTHwrUbG0",
+    "course": 1,
+    "note": "32bit float 내부 계산과 원본 정밀도 구분 → 정밀도"
+  },
+  {
+    "label": "다빈치 리졸브 - Alt 키로 편집을 빠르게! 6분 16초",
+    "title": "다빈치 리졸브 - Alt 키로 편집을 빠르게!",
+    "url": "https://www.youtube.com/watch?v=uhXtf_vKUSs&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=25&pp=iAQB",
+    "id": "uhXtf_vKUSs",
+    "course": 1,
+    "note": "Alt 조합 등 반복 동작 → 앱·버전 단축키 조건"
+  },
+  {
+    "label": "다빈치 리졸브 그룹 그레이딩 - Group Grades 7분 46초",
+    "title": "다빈치 리졸브 그룹 그레이딩 - Group Grades",
+    "url": "https://www.youtube.com/watch?v=r3oQo97uE7c&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=26&pp=iAQB0gcJCSoMAYcqIYzv",
+    "id": "r3oQo97uE7c",
+    "course": 1,
+    "note": "Pre-Clip·Clip·Post-Clip·Timeline 순서 → 그룹"
+  },
+  {
+    "label": "무손실 음원 렌더링 / 유튜브 챕터 만들기 5분 3초",
+    "title": "무손실 음원 렌더링 / 유튜브 챕터 만들기",
+    "url": "https://www.youtube.com/watch?v=shs_N7qtIZg&list=PLe5TlVjA95zmRXJS4Up2pE0SZs0VAJoF2&index=27&pp=iAQB",
+    "id": "shs_N7qtIZg",
+    "course": 1,
+    "note": "무손실 재사용 옵션·챕터 등 출력 목적 → 전달"
+  },
+  {
+    "label": "화이트 밸런스의 비밀 1분 26초",
+    "title": "화이트 밸런스의 비밀",
+    "url": "https://www.youtube.com/watch?v=sJh8qQydtU8&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=1&pp=iAQB",
+    "id": "sJh8qQydtU8",
+    "course": 2,
+    "note": "키 라이트 색과 WB로 주변광 대비 만들기 → 라이팅"
+  },
+  {
+    "label": "시네마틱 라이팅 테크닉과 라이트 모디파이어(소프트박스, 랜턴, 엄브렐러) 비교 12분 34초",
+    "title": "시네마틱 라이팅 테크닉과 라이트 모디파이어(소프트박스, 랜턴, 엄브렐러) 비교",
+    "url": "https://www.youtube.com/watch?v=QIB2UIxJDRo&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=2&pp=iAQB",
+    "id": "QIB2UIxJDRo",
+    "course": 2,
+    "note": "광원 크기·방향·퍼짐을 분리 → 부드러운 빛"
+  },
+  {
+    "label": "시네마틱한 조명이 손안에 ZHIYUN X60 RGB 8분 19초",
+    "title": "시네마틱한 조명이 손안에 ZHIYUN X60 RGB",
+    "url": "https://www.youtube.com/watch?v=lz433LeaRk8&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=3&pp=iAQB",
+    "id": "lz433LeaRk8",
+    "course": 2,
+    "note": "소형 조명의 위치·광량·운용 조건 → 구매 추천으로 옮기지 않음"
+  },
+  {
+    "label": "종이 한 장, 구멍 하나 3분 2초",
+    "title": "종이 한 장, 구멍 하나",
+    "url": "https://www.youtube.com/watch?v=5dxXjS4iiuQ&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=4&pp=iAQB",
+    "id": "5dxXjS4iiuQ",
+    "course": 2,
+    "note": "종이 반사로 근거리 피사체 채우기 → 반사광"
+  },
+  {
+    "label": "소프트박스 보다 더 소프트하다 - 북 라이팅(book lighting) 4분 42초",
+    "title": "소프트박스 보다 더 소프트하다 - 북 라이팅(book lighting)",
+    "url": "https://www.youtube.com/watch?v=M3HTiVH57Wc&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=5&pp=iAQB",
+    "id": "M3HTiVH57Wc",
+    "course": 2,
+    "note": "반사 후 확산하는 북 라이팅 → 빛 손실·설치 조건"
+  },
+  {
+    "label": "작고 가벼운 라이트가 필요한 이유 9분",
+    "title": "작고 가벼운 라이트가 필요한 이유",
+    "url": "https://www.youtube.com/watch?v=ZC2IFvpLINY&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=6&pp=iAQB",
+    "id": "ZC2IFvpLINY",
+    "course": 2,
+    "note": "작은 광원의 휴대성과 배치 → 밝기 숫자만 비교하지 않음"
+  },
+  {
+    "label": "시네마틱 라이팅 기초 - 프랙티컬 라이트와 모티베이티드 라이팅 6분 38초",
+    "title": "시네마틱 라이팅 기초 - 프랙티컬 라이트와 모티베이티드 라이팅",
+    "url": "https://www.youtube.com/watch?v=Q7xQr6z1X6A&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=7&pp=iAQB",
+    "id": "Q7xQr6z1X6A",
+    "course": 2,
+    "note": "프랙티컬·모티베이티드 라이트 → 출처의 설득력"
+  },
+  {
+    "label": "영화 BTS로 배우는 시네마틱 라이팅 9분 49초",
+    "title": "영화 BTS로 배우는 시네마틱 라이팅",
+    "url": "https://www.youtube.com/watch?v=5EMWv3_Gq0k&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=8&pp=iAQB",
+    "id": "5EMWv3_Gq0k",
+    "course": 2,
+    "note": "영화 BTS의 광원 배치 해설 → 제작자 추정은 별도 표시"
+  },
+  {
+    "label": "이게 뭘까? 5분 24초",
+    "title": "이게 뭘까?",
+    "url": "https://www.youtube.com/watch?v=ffuQMY0rE2Y&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=9&pp=iAQB",
+    "id": "ffuQMY0rE2Y",
+    "course": 2,
+    "note": "캐치라이트의 위치·크기와 얼굴 명암 → 라이팅"
+  },
+  {
+    "label": "강한 라이트가 필요한 이유 ZHIYUN MOLUS B500 8분 13초",
+    "title": "강한 라이트가 필요한 이유 ZHIYUN MOLUS B500",
+    "url": "https://www.youtube.com/watch?v=zZfXTlAVGuA&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=10&pp=iAQB",
+    "id": "zZfXTlAVGuA",
+    "course": 2,
+    "note": "고출력 조명의 전원·팬·배치 조건 → 제품 평가는 재현 검증 보류"
+  },
+  {
+    "label": "$0 키 라이트 3분 5초",
+    "title": "$0 키 라이트",
+    "url": "https://www.youtube.com/watch?v=Ydx_EmtQh44&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=11&pp=iAQB",
+    "id": "Ydx_EmtQh44",
+    "course": 2,
+    "note": "현장 조명의 차광·확산·플리커 → 설치 조건 확인"
+  },
+  {
+    "label": "$18 키 라이트 1분 49초",
+    "title": "$18 키 라이트",
+    "url": "https://www.youtube.com/watch?v=j9Ld5jBy2Pg&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=12&pp=iAQB",
+    "id": "j9Ld5jBy2Pg",
+    "course": 2,
+    "note": "저렴한 조명의 활용 사례 → 현재 가격·성능 추천으로 옮기지 않음"
+  },
+  {
+    "label": "창의적인 영상을 위한 고보 라이트(Gobo Light) 3분 35초",
+    "title": "창의적인 영상을 위한 고보 라이트(Gobo Light)",
+    "url": "https://www.youtube.com/watch?v=VKeVgNvMho4&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=13&pp=iAQB",
+    "id": "VKeVgNvMho4",
+    "course": 2,
+    "note": "고보로 빛의 패턴·경계를 만들기 → 형태의 표현"
+  },
+  {
+    "label": "라이팅으로 이야기하다 - 바운스 라이팅 (Bounce Light off Tables) 6분 6초",
+    "title": "라이팅으로 이야기하다 - 바운스 라이팅 (Bounce Light off Tables)",
+    "url": "https://www.youtube.com/watch?v=08ZjQJPXL9o&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=14&pp=iAQB",
+    "id": "08ZjQJPXL9o",
+    "course": 2,
+    "note": "테이블 반사와 인물 이동의 밝기 변화 → 라이팅"
+  },
+  {
+    "label": "Unbleached Muslin Bounce - 광목천 바운스 라이팅 8분 11초",
+    "title": "Unbleached Muslin Bounce - 광목천 바운스 라이팅",
+    "url": "https://www.youtube.com/watch?v=YivLeL8Gd9U&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=15&pp=iAQB",
+    "id": "YivLeL8Gd9U",
+    "course": 2,
+    "note": "광목 반사·확산의 색·광량·스필 → 재질 선택"
+  },
+  {
+    "label": "스마트 전구(Smart Bulb)를 영상 촬영에 사용할 수 있을까? 2분 51초",
+    "title": "스마트 전구(Smart Bulb)를 영상 촬영에 사용할 수 있을까?",
+    "url": "https://www.youtube.com/watch?v=8nTt16jbtqg&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=16&pp=iAQB",
+    "id": "8nTt16jbtqg",
+    "course": 2,
+    "note": "스마트 전구도 셔터·디밍별 플리커 확인 → 라이팅"
+  },
+  {
+    "label": "영화 BTS로 배우는 시네마틱 라이팅 2 12분 8초",
+    "title": "영화 BTS로 배우는 시네마틱 라이팅 2",
+    "url": "https://www.youtube.com/watch?v=JNrZ3Amp0us&list=PLe5TlVjA95zm8J0tZetpbodEDJ6laGr97&index=17&pp=iAQB",
+    "id": "JNrZ3Amp0us",
+    "course": 2,
+    "note": "BTS의 인물 블로킹·광원 변화 → 실제 프레임 검증 보류"
+  },
+  {
+    "label": "유튜브 오디오 레벨 / LUFS(LKFS)? / 유튜브 영상 소리가 작아요? 8분 34초",
+    "title": "유튜브 오디오 레벨 / LUFS(LKFS)? / 유튜브 영상 소리가 작아요?",
+    "url": "https://www.youtube.com/watch?v=htVBgz9y3ys&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=1&pp=iAQB",
+    "id": "htVBgz9y3ys",
+    "course": 3,
+    "note": "LUFS와 당시 플랫폼 정규화 관찰 → 고정 납품값으로 일반화 금지"
+  },
+  {
+    "label": "샘플 레이트(Sample rate)는 높을수록 좋을까? 44.1kH 보다 192kHz 음질이 좋다? 20분",
+    "title": "샘플 레이트(Sample rate)는 높을수록 좋을까? 44.1kH 보다 192kHz 음질이 좋다?",
+    "url": "https://www.youtube.com/watch?v=ZVw4xSrU6EQ&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=2&pp=iAQB0gcJCSoMAYcqIYzv",
+    "id": "ZVw4xSrU6EQ",
+    "course": 3,
+    "note": "샘플레이트·리샘플링·비선형 처리 → 사운드 형식"
+  },
+  {
+    "label": "유튜브 \"안정적인 볼륨\"의 문제점 - Youtube DRC(dynamic range compression) is EVIL 5분 26초",
+    "title": "유튜브 \"안정적인 볼륨\"의 문제점 - Youtube DRC(dynamic range compression) is EVIL",
+    "url": "https://www.youtube.com/watch?v=RDoBRKSMbp0&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=3&pp=iAQB",
+    "id": "RDoBRKSMbp0",
+    "course": 3,
+    "note": "플랫폼 DRC와 정규화의 차이 → 재생 조건 기록"
+  },
+  {
+    "label": "DAW, VST 플러그인, ASIO? 14분 47초",
+    "title": "DAW, VST 플러그인, ASIO?",
+    "url": "https://www.youtube.com/watch?v=vr4lo4yQfqA&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=4&pp=iAQB",
+    "id": "vr4lo4yQfqA",
+    "course": 3,
+    "note": "DAW·플러그인·드라이버 역할 → FCP 지원 형식 확인"
+  },
+  {
+    "label": "노멀라이즈가 무엇이고 왜 필요할까? (유튜브 영상을 위한 노멀라이즈) 10분 28초",
+    "title": "노멀라이즈가 무엇이고 왜 필요할까? (유튜브 영상을 위한 노멀라이즈)",
+    "url": "https://www.youtube.com/watch?v=D2-tIzeXH6s&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=5&pp=iAQB",
+    "id": "D2-tIzeXH6s",
+    "course": 3,
+    "note": "Peak·LUFS 정규화와 일정 게인 → 다이내믹 보존"
+  },
+  {
+    "label": "피크(Peak), RMS, LUFS(LKFS) - 오디오 레벨의 이해 5분 35초",
+    "title": "피크(Peak), RMS, LUFS(LKFS) - 오디오 레벨의 이해",
+    "url": "https://www.youtube.com/watch?v=RiB185D4_9M&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=6&pp=iAQB",
+    "id": "RiB185D4_9M",
+    "course": 3,
+    "note": "Peak·RMS·LUFS의 다른 질문 → 미터"
+  },
+  {
+    "label": "24bit 오디오가 16bit 보다 좋을까? 9분 57초",
+    "title": "24bit 오디오가 16bit 보다 좋을까?",
+    "url": "https://www.youtube.com/watch?v=S0IG68vahcc&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=7&pp=iAQB0gcJCSoMAYcqIYzv",
+    "id": "S0IG68vahcc",
+    "course": 3,
+    "note": "비트 깊이와 양자화 노이즈 → 실제 회로 한계와 구분"
+  },
+  {
+    "label": "32bit Float 레코딩은 무엇이고 16/24bit 보다 좋을까? 6분 16초",
+    "title": "32bit Float 레코딩은 무엇이고 16/24bit 보다 좋을까?",
+    "url": "https://www.youtube.com/watch?v=KO28izhnuNw&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=8&pp=iAQB",
+    "id": "KO28izhnuNw",
+    "course": 3,
+    "note": "float 파일과 지원 녹음 경로 → 마이크·입력 포화는 별개"
+  },
+  {
+    "label": "디더링(dithering)은 무엇이고 언제 필요한가? 10분 26초",
+    "title": "디더링(dithering)은 무엇이고 언제 필요한가?",
+    "url": "https://www.youtube.com/watch?v=AIGQHJxZegQ&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=9&pp=iAQB",
+    "id": "AIGQHJxZegQ",
+    "course": 3,
+    "note": "최종 비트 깊이 감소와 디더 → 중간 단계 반복 방지"
+  },
+  {
+    "label": "dB, dBFS, dBu, dBV 단위와 32bit float, dBV/Pa, dBA, EIN, LUFS 11분 9초",
+    "title": "dB, dBFS, dBu, dBV 단위와 32bit float, dBV/Pa, dBA, EIN, LUFS",
+    "url": "https://www.youtube.com/watch?v=EMbVZKQ2l6o&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=10&pp=iAQB",
+    "id": "EMbVZKQ2l6o",
+    "course": 3,
+    "note": "dBFS·dBu·SPL 등 기준을 붙여 읽기 → 단위"
+  },
+  {
+    "label": "밸런스 vs 언밸런스 케이블 - Balanced vs Unbalanced Connection 4분 23초",
+    "title": "밸런스 vs 언밸런스 케이블 - Balanced vs Unbalanced Connection",
+    "url": "https://www.youtube.com/watch?v=nBhhmsII5SY&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=11&pp=iAQB",
+    "id": "nBhhmsII5SY",
+    "course": 3,
+    "note": "밸런스 연결의 공통 모드 간섭 억제 → 스테레오와 구분"
+  },
+  {
+    "label": "FLAC은 음질이 안 좋다? PCM 원본과 다르다? 3분 21초",
+    "title": "FLAC은 음질이 안 좋다? PCM 원본과 다르다?",
+    "url": "https://www.youtube.com/watch?v=753iywhFzyQ&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=12&pp=iAQB",
+    "id": "753iywhFzyQ",
+    "course": 3,
+    "note": "FLAC의 무손실 복원과 손실 코덱 재변환 구분 → 출력"
+  },
+  {
+    "label": "사인파(Sine Wave)는 왜 사용할까? THD+N? 주파수 응답? 9분 18초",
+    "title": "사인파(Sine Wave)는 왜 사용할까? THD+N? 주파수 응답?",
+    "url": "https://www.youtube.com/watch?v=mvshAcc4pwE&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=13&pp=iAQB",
+    "id": "mvshAcc4pwE",
+    "course": 3,
+    "note": "사인파·왜곡 측정의 조건 → 특정 미터 수치 일반화 주의"
+  },
+  {
+    "label": "유튜브 오디오는 16kHz 이상은 자른다? 유튜브 뮤직 프리미엄은? 8분 11초",
+    "title": "유튜브 오디오는 16kHz 이상은 자른다? 유튜브 뮤직 프리미엄은?",
+    "url": "https://www.youtube.com/watch?v=lWSELZSNamQ&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=14&pp=iAQB",
+    "id": "lWSELZSNamQ",
+    "course": 3,
+    "note": "코덱별 주파수 제한의 당시 실험 → 모든 재생 환경으로 일반화 금지"
+  },
+  {
+    "label": "비대칭 오디오 파형의 문제와 해결 - iZotope RX Phase 3분 23초",
+    "title": "비대칭 오디오 파형의 문제와 해결 - iZotope RX Phase",
+    "url": "https://www.youtube.com/watch?v=fnw88djX1fs&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=15&pp=iAQB",
+    "id": "fnw88djX1fs",
+    "course": 3,
+    "note": "비대칭 파형은 DC 오프셋과 다름 → 모양만으로 자동 수정 금지"
+  },
+  {
+    "label": "재미있고 신기한 심리음향학(Psychoacoustics) 예제들 / 오디오 환청 및 현상들 10분 37초",
+    "title": "재미있고 신기한 심리음향학(Psychoacoustics) 예제들 / 오디오 환청 및 현상들",
+    "url": "https://www.youtube.com/watch?v=gvTt-lQUolQ&list=PLe5TlVjA95zmbecSLaHZTfuFmTbOrBfa-&index=16&pp=iAQB",
+    "id": "gvTt-lQUolQ",
+    "course": 3,
+    "note": "심리음향 예제 → 청취 확인 없이 체험 결과를 단정하지 않음"
+  }
+]
